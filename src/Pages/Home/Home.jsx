@@ -26,26 +26,26 @@ function Home() {
 
       <p className="text-center mt-2">Artista polifacético que abarca la pintura, el muralismo, la escultura, La música, la composición, la escritura y la producción.</p>
 
-      {/*CARRUSEL*/}
+      {/*CAROUSEL*/}
       <div id="carouselExampleCaptions" className="carousel slide" data-bs-ride="carousel" data-bs-interval="4000" data-bs-pause="hover">
 
-        <div className="carousel-inner">
+        <div className="text-center carousel-inner">
 
           <div className="carousel-item active">
             <Link to="/arte" className="text-decoration-none text-dark">
-              <img src="/virgilioarrieta/ObraParejaBailando.webp" className="img-carousel-1" />
+              <img src="/virgilioarrieta/ObraParejaBailando.webp" className="imgC" />
               <h3 className="mt-2">ARTE</h3>
               <p>
                 Descubre un universo creativo que abarca pintura, murales, escultura,
                 arte digital y diseño aplicado en prendas y accesorios. Cada pieza conecta
-                arte y vida cotidiana desde una mirada contemporánea.
+                arte y vida cotidiana.
               </p>
             </Link>
           </div>
 
           <div className="carousel-item">
             <Link to="/musica" className="text-decoration-none text-dark">
-              <img src="/virgilioarrieta/ObraGuitarrista.webp" className="img-carousel-2" />
+              <img src="/virgilioarrieta/ObraGuitarrista.webp" className="imgC" />
               <h3 className="mt-2">MÚSICA</h3>
               <p>
                 Sumérgete en un universo musical y descubre canciones de su autoría que
@@ -56,7 +56,7 @@ function Home() {
 
           <div className="carousel-item">
             <Link to="/escritos" className="text-decoration-none text-dark">
-              <img src="/virgilioarrieta/ObraLinea5.webp" className="img-carousel-3" />
+              <img src="/virgilioarrieta/ObraLinea5.webp" className="imgC" />
               <h3 className="mt-2">ESCRITURA</h3>
               <p>
                 Adéntrate en la obra literaria del artista, donde su libro y diversos escritos

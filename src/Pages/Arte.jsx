@@ -1,5 +1,5 @@
 import CardGaleria from "../Components/CardGaleria";
-import Carrusel from "../Components/Carrusel";
+import CarruselNo from "../Components/CarruselNo";
 
 
 const Arte = () => {
@@ -17,15 +17,16 @@ const Arte = () => {
 
             {/* OBRA PLASTICA */}
             <h2 id="ObraPlastica">Obra Plástica</h2>
-            <div className="seccion">
+            <div className="p-2">
 
-                <Carrusel
+                <CarruselNo
                     id="ObraPlastica"
                     img1="/virgilioarrieta/ObraNuestroEncuentro.webp"
                     img2="/virgilioarrieta/ObraNocheDeJazz.webp"
                     img3="/virgilioarrieta/ObraMujerSentada.webp"
                     img4="/virgilioarrieta/ObraParejaBicicleta.webp"
                     img5="/virgilioarrieta/ObraRS.webp"
+                    img6="/virgilioarrieta/ObraProcesionDP.webp"
                 />
 
             </div>
@@ -34,56 +35,69 @@ const Arte = () => {
             {/*MURALES*/}
             <div id="MuraleseIntervenciones">
                 <h2>Murales e Intervenciones</h2>
+                <div className="p-2">
 
-                <div className="seccion">
                     {/* UCLA */}
-                    <Carrusel
-                        id="Murales"
-                        img1="/virgilioarrieta/MuralUcla.webp"
+                    <CarruselNo
+                        id="MuralUcla"
+                        img1="/virgilioarrieta/MuralUcla2.webp"
                         img2="/virgilioarrieta/MuralUcla4.webp"
-                        img3="/virgilioarrieta/MuralUcla2.webp"
+                        img3="/virgilioarrieta/MuralUcla.webp"
                         img4="/virgilioarrieta/MuralUcla3.webp"
                     />
 
-                    <div className="text-center p-1">
+                    <div className="text-center p-2">
                         <h4>"Ah mundo Barquisimeto"</h4>
                         <p>Técnica: Pigmento sobre gres - Medidas: 224m2 - Lugar: Rectorado de la UCLA, Barquisimeto, Edo. Lara-Venezuela</p>
                         <p>Año: 2003</p>
                     </div>
+                </div>
 
+
+                <div className="mt-2">
 
                     {/* ASCARDIO */}
-                    <Carrusel
-                        id="Murales"
+                    <CarruselNo
+                        id="MuralAscardio"
                         img1="/virgilioarrieta/"
                         img2="/virgilioarrieta/"
                         img3="/virgilioarrieta/"
                     />
 
-                    <div className="text-center p-1">
+                    <div className="text-center p-2">
                         <h4>""</h4>
                         <p>Técnica: Pigmento sobre madera - Medidas: - Lugar: ASCARDIO, Barquisimeto, Edo. Lara-Venezuela</p>
                         <p>Año: 2021</p>
                     </div>
-
                 </div>
+
             </div>
 
 
             <div id="MuraleseIntervenciones">
                 <h2>Diseño e Intervenciones</h2>
 
-                <div className="d-flex gap-2">
+                <div className="row g-2">
+                    <div className="col-12 col-md-4">
+                        <CardGaleria
+                            titulo="Madera"
+                            img="/virgilioarrieta/ObraMaderaMusicos.webp"
+                        />
+                    </div>
+
+                    <div className="col-12 col-md-4">
                         <CardGaleria
                             titulo="Arte digital"
-                            img="/virgilioarrieta/"
+                            img="/virgilioarrieta/ObraTamunangue.webp"
                         />
+                    </div>
 
+                    <div className="col-12 col-md-4">
                         <CardGaleria
                             titulo="Intervenciones"
                             img="/virgilioarrieta/CamisetaObra.webp"
                         />
-                    
+                    </div>
                 </div>
 
             </div>
