@@ -33,7 +33,7 @@ function Home() {
 
           <div className="carousel-item active">
             <Link to="/arte" className="text-decoration-none text-dark">
-              <img src="/virgilioarrieta/ObraParejaBailando.webp" className="imgC" />
+              <img src="/virgilioarrieta/ObraParejaBailando.webp" className="imgC" style={{objectPosition: "50% 15%"}}/>
               <h3 className="mt-2">ARTE</h3>
               <p>
                 Descubre un universo creativo que abarca pintura, murales, escultura,
@@ -45,7 +45,7 @@ function Home() {
 
           <div className="carousel-item">
             <Link to="/musica" className="text-decoration-none text-dark">
-              <img src="/virgilioarrieta/ObraGuitarrista.webp" className="imgC" />
+              <img src="/virgilioarrieta/ObraGuitarrista.webp" className="imgC" style={{objectPosition: "50% 80%"}}/>
               <h3 className="mt-2">MÚSICA</h3>
               <p>
                 Sumérgete en un universo musical y descubre canciones de su autoría que
@@ -56,7 +56,7 @@ function Home() {
 
           <div className="carousel-item">
             <Link to="/escritos" className="text-decoration-none text-dark">
-              <img src="/virgilioarrieta/ObraLinea5.webp" className="imgC" />
+              <img src="/virgilioarrieta/ObraLinea5.webp" className="imgC" style={{objectPosition: "50% 30%"}}/>
               <h3 className="mt-2">ESCRITURA</h3>
               <p>
                 Adéntrate en la obra literaria del artista, donde su libro y diversos escritos
