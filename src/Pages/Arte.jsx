@@ -26,7 +26,7 @@ const Arte = () => {
                     img3="/virgilioarrieta/ObraMujerSentada.webp"
                     img4="/virgilioarrieta/ObraParejaBicicleta.webp"
                     img5="/virgilioarrieta/ObraRS.webp"
-                    img6="/virgilioarrieta/ObraProcesionDP.webp"
+                    img6="/virgilioarrieta/"
                 />
 
             </div>
@@ -34,15 +34,15 @@ const Arte = () => {
 
             {/*MURALES*/}
             <div id="murales">
-                <h2>Murales e Intervenciones</h2>
+                <h2>Murales</h2>
                 <div className="p-2">
 
                     {/* UCLA */}
                     <CarruselNo
                         id="MuralUcla"
-                        img1="/virgilioarrieta/MuralUcla2.webp"
-                        img2="/virgilioarrieta/MuralUcla4.webp"
-                        img3="/virgilioarrieta/MuralUcla.webp"
+                        img1="/virgilioarrieta/MuralUcla1.webp"
+                        img2="/virgilioarrieta/MuralUcla2.webp"
+                        img3="/virgilioarrieta/MuralUcla4.webp"
                         img4="/virgilioarrieta/MuralUcla3.webp"
                     />
 
@@ -59,13 +59,12 @@ const Arte = () => {
                     {/* ASCARDIO */}
                     <CarruselNo
                         id="MuralAscardio"
-                        img1="/virgilioarrieta/"
-                        img2="/virgilioarrieta/"
-                        img3="/virgilioarrieta/"
+                        img1="/virgilioarrieta/MuralAscardio.webp"
+                        img2=""
                     />
 
                     <div className="text-center p-2">
-                        <h4>""</h4>
+                        <h4>"ASCARDIO"</h4>
                         <p>Técnica: Pigmento sobre madera - Medidas: - Lugar: ASCARDIO, Barquisimeto, Edo. Lara-Venezuela</p>
                         <p>Año: 2021</p>
                     </div>

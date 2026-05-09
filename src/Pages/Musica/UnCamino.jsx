@@ -6,7 +6,7 @@ const UnCamino = () => {
             <div className="seccion row">
 
                 <div className="col-lg-4">
-                    <img src="" className="img-fluid" />
+                    <img src="/virgilioarrieta/UnCaminoYUnaEstrella.webp" className="img-fluid" />
                 </div>
 
                 <div className="col-lg-8">

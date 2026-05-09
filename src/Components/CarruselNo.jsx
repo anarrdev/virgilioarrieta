@@ -2,7 +2,7 @@ const CarruselNo = ({ id, img1, img2, img3, img4, img5, img6 }) => {
   return (
     <div id={`carousel${id}`} className="carousel slide" data-bs-interval="false" data-bs-ride="false">
       <div className="text-center carousel-inner">
-        <div className="carousel-item active">
+        <div className="carousel-item active p-2">
           <img src={img1} className="imgCN d-block w-100" />
         </div>
         <div className="carousel-item">

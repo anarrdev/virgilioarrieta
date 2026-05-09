@@ -48,7 +48,7 @@ const Biografia = () => {
 
             {/*JUVENTUD*/}
             <CardSeccion titulo="Juventud y Formación Dual"
-                img=""
+                img="/virgilioarrieta/VAJoven.webp"
                 texto={<>
                     Durante su adolescencia, Virgilio continuó cultivando su amor por las artes mientras cumplía con sus estudios formales. <b>A los 19 años se trasladó a Barquisimeto para estudiar Contaduría Pública y Finanzas en la universidad</b>, una decisión que le permitió desarrollar una formación académica sólida. Sin embargo, nunca perdió de vista su verdadero llamado: el arte y la música.
                     <br /><br />
