@@ -3,7 +3,7 @@ import { BotonesVerMas } from "./Botones";
 const CardGaleria = ({ titulo, texto, img, ruta }) => {
     return (
         <div className="card p-2">
-            <img src={img} className="imgC" alt={`imagen ${titulo}`} />
+            <img src={img} className="imgG" alt={`imagen ${titulo}`} />
             <div className="card-body">
                 <h4 className="text-center m-0">{titulo}</h4>
 

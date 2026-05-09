@@ -19,7 +19,6 @@ function Home() {
         A lo largo de su vida ha construido una obra amplia y diversa: como pintor ha explorado distintos lenguajes visuales, y como compositor ha creado más de 300 canciones interpretadas por reconocidos artistas nacionales e internacionales. Su trabajo ha trascendido fronteras, consolidándolo como un embajador de la identidad cultural venezolana.
         
         Conocer su historia es adentrarse en el recorrido de un artista que ha hecho del arte una forma de vida, uniendo emoción, creatividad y compromiso cultural en cada una de sus obras.`}
-
         href="/biografia"
       />
 

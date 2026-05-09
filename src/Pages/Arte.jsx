@@ -16,7 +16,7 @@ const Arte = () => {
 
 
             {/* OBRA PLASTICA */}
-            <h2 id="ObraPlastica">Obra Plástica</h2>
+            <h2 id="obraPlastica">Obra Plástica</h2>
             <div className="p-2">
 
                 <CarruselNo
@@ -33,7 +33,7 @@ const Arte = () => {
 
 
             {/*MURALES*/}
-            <div id="MuraleseIntervenciones">
+            <div id="murales">
                 <h2>Murales e Intervenciones</h2>
                 <div className="p-2">
 
@@ -74,25 +74,26 @@ const Arte = () => {
             </div>
 
 
-            <div id="MuraleseIntervenciones">
+            {/* INTERVENCIONES */}
+            <div id="intervenciones">
                 <h2>Diseño e Intervenciones</h2>
 
-                <div className="row g-2">
-                    <div className="col-12 col-md-4">
+                <div className="d-flex flex-wrap gap-2">
+                    <div className="galeria-item">
                         <CardGaleria
                             titulo="Madera"
                             img="/virgilioarrieta/ObraMaderaMusicos.webp"
                         />
                     </div>
 
-                    <div className="col-12 col-md-4">
+                    <div className="galeria-item">
                         <CardGaleria
                             titulo="Arte digital"
                             img="/virgilioarrieta/ObraTamunangue.webp"
                         />
                     </div>
 
-                    <div className="col-12 col-md-4">
+                    <div className="galeria-item">
                         <CardGaleria
                             titulo="Intervenciones"
                             img="/virgilioarrieta/CamisetaObra.webp"
@@ -101,7 +102,6 @@ const Arte = () => {
                 </div>
 
             </div>
-
         </div>
     )
 }
