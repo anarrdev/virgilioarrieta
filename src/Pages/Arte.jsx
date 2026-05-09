@@ -26,7 +26,6 @@ const Arte = () => {
                     img3="/virgilioarrieta/ObraMujerSentada.webp"
                     img4="/virgilioarrieta/ObraParejaBicicleta.webp"
                     img5="/virgilioarrieta/ObraRS.webp"
-                    img6="/virgilioarrieta/"
                 />
 
             </div>
