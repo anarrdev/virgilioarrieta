@@ -136,7 +136,63 @@ const UnCamino = () => {
                         <Cancion
                             num={4}
                             titulo="Todo lo prohibido"
-                            letra={``}
+                            letra={`Cuando pasó
+                                Dejó la brisa perfumadita
+                                Y le entregué
+                                Echo el tonto una miradita
+                                No pa' que se enamorara
+                                No para que me quisiera
+                                Algo me dice
+                                Que tiene dueño
+                                Algo me dice
+                                Que me enamoré
+                                
+                                Por qué será
+                                Que todo lo prohibido
+                                Por qué será
+                                Deja un dulcito en la boca
+                                Por qué será
+                                Que por siempre te provoca
+                                Dímelo tú
+                                De aquel amor escondido
+
+                                Déjame decirte vida
+                                Quítame la tentación
+                                Ella me mira bonito
+                                Y a mi me sobra el amor
+                                Déjame decirte vida
+                                Quítame la tentación
+                                Ella me mira bonito
+                                Y a mi me sobra el amor
+
+                                Cuando pasó
+                                Dejó la brisa perfumadita
+                                Y la miré
+                                De arriba a abajo toda todita
+                                No pa' que se enamorara
+                                No para que me quisiera
+                                Algo me dice
+                                Que tiene dueño
+                                Algo me dice
+                                Que me enamoré
+
+                                Por qué será
+                                Que todo lo prohibido
+                                Por qué será
+                                Deja un dulcito en la boca
+                                Por qué será
+                                Que por siempre te provoca
+                                Dímelo tú
+                                De aquel amor escondido
+
+                                Déjame decirte vida
+                                Quítame la tentación
+                                Ella me mira bonito
+                                Y a mi me sobra el amor
+                                Déjame decirte vida
+                                Quítame la tentación
+                                Ella me mira bonito
+                                Y a mi me sobra el amor`}
                         />
 
 
@@ -323,14 +379,116 @@ const UnCamino = () => {
                         <Cancion
                             num={9}
                             titulo="Mi padre mi amigo"
-                            letra={``}
+                            letra={`Papá si te vas cuando regresas
+                                Perdóname si te espero
+                                Pero es que yo te quiero, papá
+                                
+                                También te quiero mucho
+                                Lo sabes muy bien
+                                Me llevo tus besitos
+                                Y el olor de tu piel
+                                Por favor píntale a mamá
+                                Con tus creyones
+                                Un cielo azul 
+                                Llenito de corazones
+                                Y cántale mis canciones de amor
+
+                                Cómo hacer para que se quede
+                                Mi padre mi amigo
+                                Que tengo que hacer
+                                Para que estés en mis noches
+                                Me acuestes me arropes
+                                Que debo hacer
+                                Cómo hacer para que se quede
+                                Mi padre mi amigo
+                                Que tengo que hacer
+                                Voy a cumplir las tareas
+                                Haré lo que quieras
+                                Quédate
+
+                                Papá si te vas cuando regresas
+                                Por qué tan grandes maletas
+                                Y por qué tantas ganas de llorar
+                                
+                                La vida tiene cosas
+                                Sin explicación
+                                Tú eres un cometa
+                                Y ella un ventarrón
+                                Por favor píntale a mamá
+                                Con tus creyones
+                                Un cielo azul 
+                                Llenito de corazones
+                                Y cántale mis canciones de amor
+
+                                Cómo hacer para que se quede
+                                Mi padre mi amigo
+                                Que tengo que hacer
+                                Para que estés en mis noches
+                                Me acuestes me arropes
+                                Que debo hacer
+
+                                Cómo hacer para que se quede
+                                Mi padre mi amigo
+                                Que tengo que hacer
+                                Voy a cumplir las tareas
+                                Haré lo que quieras
+                                Quédate
+                                Quédate`}
                         />
 
 
                         <Cancion
                             num={10}
                             titulo="Con el mismo amor de siempre"
-                            letra={``}
+                            letra={`Aquí la voy a esperar
+                                La esperaré para siempre
+                                Aquí la voy a esperar
+                                Aquí la voy a esperar
+                                Con el mismo amor de siempre
+
+                                Aquí la voy a esperar
+                                La esperaré para siempre
+                                Aquí la voy a esperar
+                                Aquí la voy a esperar
+                                Con el mismo amor de siempre
+
+                                Deja que se vaya
+                                Que agarre camino adentro
+                                Que caminando la vida
+                                Se llena de sentimiento
+                                Deja que se vaya
+                                No reniegues de la suerte
+                                Que si de verdad te quiere
+                                De ahí mismito se devuelve
+
+                                Deja que se vaya
+                                Que agarre camino adentro
+                                Que caminando la vida
+                                Se llena de sentimiento
+                                Deja que se vaya
+                                No reniegues de la suerte
+                                Que si de verdad te quiere
+                                De ahí mismito se devuelve
+
+                                Cuando haga frio
+                                Recordará cada beso mío
+                                Cuando haga frio
+                                Recordará cada beso mío
+                                Cuando su cuerpo quiera querer
+                                Le sobrarán 
+                                Le sobrarán
+                                Le sobrarán
+                                Las ganas para volver
+                                Le sobrarán 
+                                Le sobrarán
+                                Le sobrarán
+                                Las ganas para volver
+
+                                Cuando el amor es sincero
+                                Mira, tu lo puedes dejar suelto
+                                Es que si, que si te quiere chico
+                                Se devuelve
+                                Se devuelve`}
                         />
 
                     </div>

@@ -12,7 +12,7 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
         
         A lo largo de su vida ha construido una obra amplia y diversa: como pintor ha explorado distintos lenguajes visuales, y como compositor ha creado más de 300 canciones interpretadas por reconocidos artistas nacionales e internacionales. Su trabajo ha trascendido fronteras, consolidándolo como un embajador de la identidad cultural venezolana.
         
-        Conocer su historia es adentrarse en el recorrido de un artista que ha hecho del arte una forma de vida, uniendo emoción, creatividad y compromiso cultural en cada una de sus obras.`,href:`/biografia`}),(0,R.jsx)(`p`,{className:`text-center mt-2`,children:`Artista polifacético que abarca la pintura, el muralismo, la escultura, La música, la composición, la escritura y la producción.`}),(0,R.jsxs)(`div`,{id:`carouselExampleCaptions`,className:`carousel slide`,"data-bs-ride":`carousel`,"data-bs-interval":`4000`,"data-bs-pause":`hover`,children:[(0,R.jsxs)(`div`,{className:`text-center carousel-inner`,children:[(0,R.jsx)(`div`,{className:`carousel-item active`,children:(0,R.jsxs)(vn,{to:`/arte`,className:`text-decoration-none text-dark`,children:[(0,R.jsx)(`img`,{src:`/virgilioarrieta/ObraParejaBailando.webp`,className:`imgC`,style:{objectPosition:`50% 15%`}}),(0,R.jsx)(`h3`,{className:`mt-2`,children:`ARTE`}),(0,R.jsx)(`p`,{children:`Descubre un universo creativo que abarca pintura, murales, escultura, arte digital y diseño aplicado en prendas y accesorios. Cada pieza conecta arte y vida cotidiana.`})]})}),(0,R.jsx)(`div`,{className:`carousel-item`,children:(0,R.jsxs)(vn,{to:`/musica`,className:`text-decoration-none text-dark`,children:[(0,R.jsx)(`img`,{src:`/virgilioarrieta/ObraGuitarrista.webp`,className:`imgC`,style:{objectPosition:`50% 80%`}}),(0,R.jsx)(`h3`,{className:`mt-2`,children:`MÚSICA`}),(0,R.jsx)(`p`,{children:`Sumérgete en un universo musical y descubre canciones de su autoría que conectan con emociones reales, letras que cuentan historias y melodías que invitan a cantar.`})]})}),(0,R.jsx)(`div`,{className:`carousel-item`,children:(0,R.jsxs)(vn,{to:`/escritos`,className:`text-decoration-none text-dark`,children:[(0,R.jsx)(`img`,{src:`/virgilioarrieta/ObraLinea5.webp`,className:`imgC`,style:{objectPosition:`50% 30%`}}),(0,R.jsx)(`h3`,{className:`mt-2`,children:`ESCRITURA`}),(0,R.jsx)(`p`,{children:`Adéntrate en la obra literaria del artista, donde su libro y diversos escritos revelan una voz personal que explora emociones, ideas y experiencias desde una mirada creativa y reflexiva.`})]})})]}),(0,R.jsxs)(`button`,{className:`carousel-control-prev`,type:`button`,"data-bs-target":`#carouselExampleCaptions`,"data-bs-slide":`prev`,children:[(0,R.jsx)(`span`,{className:`carousel-control-prev-icon`,"aria-hidden":`true`}),(0,R.jsx)(`span`,{children:`Prev`})]}),(0,R.jsxs)(`button`,{className:`carousel-control-next`,type:`button`,"data-bs-target":`#carouselExampleCaptions`,"data-bs-slide":`next`,children:[(0,R.jsx)(`span`,{className:`carousel-control-next-icon`,"aria-hidden":`true`}),(0,R.jsx)(`span`,{children:`Next`})]})]})]})}var qn=({titulo:e,texto:t,img:n,ruta:r})=>(0,R.jsxs)(`div`,{className:`card p-2`,children:[(0,R.jsx)(`img`,{src:n,className:`imgG`,alt:`imagen ${e}`}),(0,R.jsxs)(`div`,{className:`card-body`,children:[(0,R.jsx)(`h4`,{className:`text-center m-0`,children:e}),t?(0,R.jsx)(`p`,{className:`m-0`,children:t}):null,r?(0,R.jsx)(`div`,{className:`d-flex justify-content-end mt-3`,children:(0,R.jsx)(Bn,{href:r})}):null]})]}),Jn=({id:e,img1:t,img2:n,img3:r,img4:i,img5:a,img6:o})=>(0,R.jsxs)(`div`,{id:`carousel${e}`,className:`carousel slide`,"data-bs-interval":`false`,"data-bs-ride":`false`,children:[(0,R.jsxs)(`div`,{className:`text-center carousel-inner`,children:[(0,R.jsx)(`div`,{className:`carousel-item active p-2`,children:(0,R.jsx)(`img`,{src:t,className:`imgCN d-block`})}),(0,R.jsx)(`div`,{className:`carousel-item`,children:(0,R.jsx)(`img`,{src:n,className:`imgCN d-block`})}),r?(0,R.jsx)(`div`,{className:`carousel-item`,children:(0,R.jsx)(`img`,{src:r,className:`imgCN d-block`})}):null,i?(0,R.jsx)(`div`,{className:`carousel-item`,children:(0,R.jsx)(`img`,{src:i,className:`imgCN d-block`})}):null,a?(0,R.jsx)(`div`,{className:`carousel-item`,children:(0,R.jsx)(`img`,{src:a,className:`imgCN d-block`})}):null,o?(0,R.jsx)(`div`,{className:`carousel-item`,children:(0,R.jsx)(`img`,{src:o,className:`imgCN d-block`})}):null]}),(0,R.jsxs)(`button`,{className:`carousel-control-prev custom-control`,type:`button`,"data-bs-target":`#carousel${e}`,"data-bs-slide":`prev`,children:[(0,R.jsx)(`span`,{className:`carousel-control-prev-icon`}),(0,R.jsx)(`span`,{children:`Prev`})]}),(0,R.jsxs)(`button`,{className:`carousel-control-next`,type:`button`,"data-bs-target":`#carousel${e}`,"data-bs-slide":`next`,children:[(0,R.jsx)(`span`,{children:`Next`}),(0,R.jsx)(`span`,{className:`carousel-control-next-icon`})]})]}),Yn=()=>(0,R.jsxs)(`div`,{className:`d-flex flex-column gap-2`,children:[(0,R.jsx)(`img`,{src:`/virgilioarrieta/UltimaCena.webp`,className:`card-img-banner`,alt:`Obra Ultima Cena Musicos - Virgilio Arrieta`}),(0,R.jsx)(`h2`,{children:`Arte`}),(0,R.jsx)(`p`,{children:`Bienvenidos a la galería virtual de Virgilio Arrieta, un espacio dedicado a su obra plástica. Aquí podrás explorar una colección de sus cuadros y creaciones visuales, donde cada pieza refleja su visión única y su habilidad para transformar emociones y conceptos en arte.`}),(0,R.jsxs)(`strong`,{className:`d-flex gap-2 p-2`,children:[(0,R.jsx)(`i`,{className:`bi bi-chat-text`}),`Te invitamos a sumergirte en esta experiencia visual y descubrir la profundidad de su trabajo artístico.`]}),(0,R.jsx)(`h2`,{id:`obraPlastica`,children:`Obra Plástica`}),(0,R.jsx)(`div`,{className:`p-2`,children:(0,R.jsx)(Jn,{id:`ObraPlastica`,img1:`/virgilioarrieta/ObraNuestroEncuentro.webp`,img2:`/virgilioarrieta/ObraNocheDeJazz.webp`,img3:`/virgilioarrieta/ObraMujerSentada.webp`,img4:`/virgilioarrieta/ObraParejaBicicleta.webp`,img5:`/virgilioarrieta/ObraRS.webp`})}),(0,R.jsxs)(`div`,{id:`murales`,children:[(0,R.jsx)(`h2`,{children:`Murales`}),(0,R.jsxs)(`div`,{className:`p-2`,children:[(0,R.jsx)(Jn,{id:`MuralUcla`,img1:`/virgilioarrieta/MuralUcla1.webp`,img2:`/virgilioarrieta/MuralUcla2.webp`,img3:`/virgilioarrieta/MuralUcla4.webp`,img4:`/virgilioarrieta/MuralUcla3.webp`}),(0,R.jsxs)(`div`,{className:`text-center`,children:[(0,R.jsx)(`h4`,{className:`mt-2`,children:`"Ah mundo Barquisimeto"`}),(0,R.jsx)(`p`,{children:`Técnica: Pigmento sobre gres - Medidas: 224m2 - Lugar: Rectorado de la UCLA, Barquisimeto, Edo. Lara-Venezuela`}),(0,R.jsx)(`p`,{children:`Año: 2003`})]})]}),(0,R.jsxs)(`div`,{className:`mt-2`,children:[(0,R.jsx)(Jn,{id:`MuralAscardio`,img1:`/virgilioarrieta/MuralAscardio.webp`,img2:``}),(0,R.jsxs)(`div`,{className:`text-center p-2`,children:[(0,R.jsx)(`h4`,{className:`mt-2`,children:`"ASCARDIO"`}),(0,R.jsx)(`p`,{children:`Técnica: Pigmento sobre madera - Medidas: - Lugar: ASCARDIO, Barquisimeto, Edo. Lara-Venezuela`}),(0,R.jsx)(`p`,{children:`Año: 2021`})]})]})]}),(0,R.jsxs)(`div`,{id:`intervenciones`,children:[(0,R.jsx)(`h2`,{children:`Diseño e Intervenciones`}),(0,R.jsxs)(`div`,{className:`d-flex flex-wrap gap-2`,children:[(0,R.jsx)(`div`,{className:`galeria-item`,children:(0,R.jsx)(qn,{titulo:`Madera`,img:`/virgilioarrieta/ObraMaderaMusicos.webp`})}),(0,R.jsx)(`div`,{className:`galeria-item`,children:(0,R.jsx)(qn,{titulo:`Arte digital`,img:`/virgilioarrieta/ObraTamunangue.webp`})}),(0,R.jsx)(`div`,{className:`galeria-item`,children:(0,R.jsx)(qn,{titulo:`Intervenciones`,img:`/virgilioarrieta/CamisetaObra.webp`})})]})]})]}),z=({num:e,titulo:t,letra:n})=>(0,R.jsxs)(`div`,{className:`accordion-item`,children:[(0,R.jsx)(`h2`,{className:`accordion-header`,children:(0,R.jsx)(`button`,{className:`accordion-button fs-5 fw-bold`,type:`button`,"data-bs-toggle":`collapse`,"data-bs-target":`#collapse${e}`,"aria-expanded":`false`,"aria-controls":`collapse${e}`,children:t})}),(0,R.jsx)(`div`,{id:`collapse${e}`,className:`accordion-collapse collapse`,"data-bs-parent":`#accordionExample`,children:(0,R.jsxs)(`div`,{className:`accordion-body`,children:[(0,R.jsxs)(`div`,{className:`text-center`,children:[(0,R.jsx)(`h6`,{className:`m-0`,children:t}),(0,R.jsx)(`small`,{children:`Autor: Virgilio Arrieta`})]}),(0,R.jsx)(`br`,{}),(0,R.jsx)(`p`,{className:`texto_space`,children:n})]})})]}),Xn=()=>(0,R.jsx)(R.Fragment,{children:(0,R.jsxs)(`div`,{className:`seccion row`,children:[(0,R.jsx)(`div`,{className:`col-lg-4`,children:(0,R.jsx)(`img`,{src:`/virgilioarrieta/UnCaminoYUnaEstrella.webp`,className:`img-fluid`})}),(0,R.jsx)(`div`,{className:`col-lg-8`,children:(0,R.jsxs)(`div`,{className:`accordion`,id:`accordionExample`,children:[(0,R.jsx)(z,{num:1,titulo:`A quién no le ha pasado`,letra:`Cuando la luna levanta
+        Conocer su historia es adentrarse en el recorrido de un artista que ha hecho del arte una forma de vida, uniendo emoción, creatividad y compromiso cultural en cada una de sus obras.`,href:`/biografia`}),(0,R.jsx)(`p`,{className:`text-center mt-2`,children:`Artista polifacético que abarca la pintura, el muralismo, la escultura, La música, la composición, la escritura y la producción.`}),(0,R.jsxs)(`div`,{id:`carouselExampleCaptions`,className:`carousel slide`,"data-bs-ride":`carousel`,"data-bs-interval":`4000`,"data-bs-pause":`hover`,children:[(0,R.jsxs)(`div`,{className:`text-center carousel-inner`,children:[(0,R.jsx)(`div`,{className:`carousel-item active`,children:(0,R.jsxs)(vn,{to:`/arte`,className:`text-decoration-none text-dark`,children:[(0,R.jsx)(`img`,{src:`/virgilioarrieta/ObraParejaBailando.webp`,className:`imgC`,style:{objectPosition:`50% 15%`}}),(0,R.jsx)(`h3`,{className:`mt-2`,children:`ARTE`}),(0,R.jsx)(`p`,{children:`Descubre un universo creativo que abarca pintura, murales, escultura, arte digital y diseño aplicado en prendas y accesorios. Cada pieza conecta arte y vida cotidiana.`})]})}),(0,R.jsx)(`div`,{className:`carousel-item`,children:(0,R.jsxs)(vn,{to:`/musica`,className:`text-decoration-none text-dark`,children:[(0,R.jsx)(`img`,{src:`/virgilioarrieta/ObraGuitarrista.webp`,className:`imgC`,style:{objectPosition:`50% 80%`}}),(0,R.jsx)(`h3`,{className:`mt-2`,children:`MÚSICA`}),(0,R.jsx)(`p`,{children:`Sumérgete en un universo musical y descubre canciones de su autoría que conectan con emociones reales, letras que cuentan historias y melodías que invitan a cantar.`})]})}),(0,R.jsx)(`div`,{className:`carousel-item`,children:(0,R.jsxs)(vn,{to:`/escritos`,className:`text-decoration-none text-dark`,children:[(0,R.jsx)(`img`,{src:`/virgilioarrieta/ObraLinea5.webp`,className:`imgC`,style:{objectPosition:`50% 30%`}}),(0,R.jsx)(`h3`,{className:`mt-2`,children:`ESCRITURA`}),(0,R.jsx)(`p`,{children:`Adéntrate en la obra literaria del artista, donde su libro y diversos escritos revelan una voz personal que explora emociones, ideas y experiencias desde una mirada creativa y reflexiva.`})]})})]}),(0,R.jsxs)(`button`,{className:`carousel-control-prev`,type:`button`,"data-bs-target":`#carouselExampleCaptions`,"data-bs-slide":`prev`,children:[(0,R.jsx)(`span`,{className:`carousel-control-prev-icon`,"aria-hidden":`true`}),(0,R.jsx)(`span`,{children:`Prev`})]}),(0,R.jsxs)(`button`,{className:`carousel-control-next`,type:`button`,"data-bs-target":`#carouselExampleCaptions`,"data-bs-slide":`next`,children:[(0,R.jsx)(`span`,{children:`Next`}),(0,R.jsx)(`span`,{className:`carousel-control-next-icon`,"aria-hidden":`true`})]})]})]})}var qn=({titulo:e,texto:t,img:n,ruta:r})=>(0,R.jsxs)(`div`,{className:`card p-2`,children:[(0,R.jsx)(`img`,{src:n,className:`imgG`,alt:`imagen ${e}`}),(0,R.jsxs)(`div`,{className:`card-body`,children:[(0,R.jsx)(`h4`,{className:`text-center m-0`,children:e}),t?(0,R.jsx)(`p`,{className:`m-0`,children:t}):null,r?(0,R.jsx)(`div`,{className:`d-flex justify-content-end mt-3`,children:(0,R.jsx)(Bn,{href:r})}):null]})]}),Jn=({id:e,img1:t,img2:n,img3:r,img4:i,img5:a,img6:o})=>(0,R.jsxs)(`div`,{id:`carousel${e}`,className:`carousel slide`,"data-bs-interval":`false`,"data-bs-ride":`false`,children:[(0,R.jsxs)(`div`,{className:`text-center carousel-inner`,children:[(0,R.jsx)(`div`,{className:`carousel-item active p-2`,children:(0,R.jsx)(`img`,{src:t,className:`imgCN d-block`})}),(0,R.jsx)(`div`,{className:`carousel-item`,children:(0,R.jsx)(`img`,{src:n,className:`imgCN d-block`})}),r?(0,R.jsx)(`div`,{className:`carousel-item`,children:(0,R.jsx)(`img`,{src:r,className:`imgCN d-block`})}):null,i?(0,R.jsx)(`div`,{className:`carousel-item`,children:(0,R.jsx)(`img`,{src:i,className:`imgCN d-block`})}):null,a?(0,R.jsx)(`div`,{className:`carousel-item`,children:(0,R.jsx)(`img`,{src:a,className:`imgCN d-block`})}):null,o?(0,R.jsx)(`div`,{className:`carousel-item`,children:(0,R.jsx)(`img`,{src:o,className:`imgCN d-block`})}):null]}),(0,R.jsxs)(`button`,{className:`carousel-control-prev custom-control`,type:`button`,"data-bs-target":`#carousel${e}`,"data-bs-slide":`prev`,children:[(0,R.jsx)(`span`,{className:`carousel-control-prev-icon`}),(0,R.jsx)(`span`,{children:`Prev`})]}),(0,R.jsxs)(`button`,{className:`carousel-control-next`,type:`button`,"data-bs-target":`#carousel${e}`,"data-bs-slide":`next`,children:[(0,R.jsx)(`span`,{children:`Next`}),(0,R.jsx)(`span`,{className:`carousel-control-next-icon`})]})]}),Yn=()=>(0,R.jsxs)(`div`,{className:`d-flex flex-column gap-2`,children:[(0,R.jsx)(`img`,{src:`/virgilioarrieta/UltimaCena.webp`,className:`card-img-banner`,alt:`Obra Ultima Cena Musicos - Virgilio Arrieta`}),(0,R.jsx)(`h2`,{children:`Arte`}),(0,R.jsx)(`p`,{children:`Bienvenidos a la galería virtual de Virgilio Arrieta, un espacio dedicado a su obra plástica. Aquí podrás explorar una colección de sus cuadros y creaciones visuales, donde cada pieza refleja su visión única y su habilidad para transformar emociones y conceptos en arte.`}),(0,R.jsxs)(`strong`,{className:`d-flex gap-2 p-2`,children:[(0,R.jsx)(`i`,{className:`bi bi-chat-text`}),`Te invitamos a sumergirte en esta experiencia visual y descubrir la profundidad de su trabajo artístico.`]}),(0,R.jsx)(`h2`,{id:`obraPlastica`,children:`Obra Plástica`}),(0,R.jsx)(`div`,{className:`p-2`,children:(0,R.jsx)(Jn,{id:`ObraPlastica`,img1:`/virgilioarrieta/ObraNuestroEncuentro.webp`,img2:`/virgilioarrieta/ObraNocheDeJazz.webp`,img3:`/virgilioarrieta/ObraMujerSentada.webp`,img4:`/virgilioarrieta/ObraParejaBicicleta.webp`,img5:`/virgilioarrieta/ObraRS.webp`})}),(0,R.jsxs)(`div`,{id:`murales`,children:[(0,R.jsx)(`h2`,{children:`Murales`}),(0,R.jsxs)(`div`,{className:`p-2`,children:[(0,R.jsx)(Jn,{id:`MuralUcla`,img1:`/virgilioarrieta/MuralUcla1.webp`,img2:`/virgilioarrieta/MuralUcla2.webp`,img3:`/virgilioarrieta/MuralUcla4.webp`,img4:`/virgilioarrieta/MuralUcla3.webp`}),(0,R.jsxs)(`div`,{className:`text-center`,children:[(0,R.jsx)(`h4`,{className:`mt-2`,children:`"Ah mundo Barquisimeto"`}),(0,R.jsx)(`p`,{children:`Técnica: Pigmento sobre gres - Medidas: 224m2 - Lugar: Rectorado de la UCLA, Barquisimeto, Edo. Lara-Venezuela`}),(0,R.jsx)(`p`,{children:`Año: 2003`})]})]}),(0,R.jsxs)(`div`,{className:`mt-2`,children:[(0,R.jsx)(Jn,{id:`MuralAscardio`,img1:`/virgilioarrieta/MuralAscardio.webp`,img2:``}),(0,R.jsxs)(`div`,{className:`text-center p-2`,children:[(0,R.jsx)(`h4`,{className:`mt-2`,children:`"ASCARDIO"`}),(0,R.jsx)(`p`,{children:`Técnica: Pigmento sobre madera - Medidas: - Lugar: ASCARDIO, Barquisimeto, Edo. Lara-Venezuela`}),(0,R.jsx)(`p`,{children:`Año: 2021`})]})]})]}),(0,R.jsxs)(`div`,{id:`intervenciones`,children:[(0,R.jsx)(`h2`,{children:`Diseño e Intervenciones`}),(0,R.jsxs)(`div`,{className:`d-flex flex-wrap gap-2`,children:[(0,R.jsx)(`div`,{className:`galeria-item`,children:(0,R.jsx)(qn,{titulo:`Madera`,img:`/virgilioarrieta/ObraMaderaMusicos.webp`})}),(0,R.jsx)(`div`,{className:`galeria-item`,children:(0,R.jsx)(qn,{titulo:`Arte digital`,img:`/virgilioarrieta/ObraTamunangue.webp`})}),(0,R.jsx)(`div`,{className:`galeria-item`,children:(0,R.jsx)(qn,{titulo:`Intervenciones`,img:`/virgilioarrieta/CamisetaObra.webp`})})]})]})]}),z=({num:e,titulo:t,letra:n})=>(0,R.jsxs)(`div`,{className:`accordion-item`,children:[(0,R.jsx)(`h2`,{className:`accordion-header`,children:(0,R.jsx)(`button`,{className:`accordion-button fs-5 fw-bold`,type:`button`,"data-bs-toggle":`collapse`,"data-bs-target":`#collapse${e}`,"aria-expanded":`false`,"aria-controls":`collapse${e}`,children:t})}),(0,R.jsx)(`div`,{id:`collapse${e}`,className:`accordion-collapse collapse`,"data-bs-parent":`#accordionExample`,children:(0,R.jsxs)(`div`,{className:`accordion-body`,children:[(0,R.jsxs)(`div`,{className:`text-center`,children:[(0,R.jsx)(`h6`,{className:`m-0`,children:t}),(0,R.jsx)(`small`,{children:`Autor: Virgilio Arrieta`})]}),(0,R.jsx)(`br`,{}),(0,R.jsx)(`p`,{className:`texto_space`,children:n})]})})]}),Xn=()=>(0,R.jsx)(R.Fragment,{children:(0,R.jsxs)(`div`,{className:`seccion row`,children:[(0,R.jsx)(`div`,{className:`col-lg-4`,children:(0,R.jsx)(`img`,{src:`/virgilioarrieta/UnCaminoYUnaEstrella.webp`,className:`img-fluid`})}),(0,R.jsx)(`div`,{className:`col-lg-8`,children:(0,R.jsxs)(`div`,{className:`accordion`,id:`accordionExample`,children:[(0,R.jsx)(z,{num:1,titulo:`A quién no le ha pasado`,letra:`Cuando la luna levanta
                                 Hasta el centro de la noche
                             Y una estrella le da besos
                             Alla por el horizonte
@@ -112,7 +112,63 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
                                 Y entre mis brazos te sienta
                                 Como ese sol encendido
                                 Deja mecerse el chinchorro
-                                Aunque el mecate haga ruido`}),(0,R.jsx)(z,{num:4,titulo:`Todo lo prohibido`,letra:``}),(0,R.jsx)(z,{num:5,titulo:`Cuando uno anda apurao`,letra:`Hay que ver
+                                Aunque el mecate haga ruido`}),(0,R.jsx)(z,{num:4,titulo:`Todo lo prohibido`,letra:`Cuando pasó
+                                Dejó la brisa perfumadita
+                                Y le entregué
+                                Echo el tonto una miradita
+                                No pa' que se enamorara
+                                No para que me quisiera
+                                Algo me dice
+                                Que tiene dueño
+                                Algo me dice
+                                Que me enamoré
+                                
+                                Por qué será
+                                Que todo lo prohibido
+                                Por qué será
+                                Deja un dulcito en la boca
+                                Por qué será
+                                Que por siempre te provoca
+                                Dímelo tú
+                                De aquel amor escondido
+
+                                Déjame decirte vida
+                                Quítame la tentación
+                                Ella me mira bonito
+                                Y a mi me sobra el amor
+                                Déjame decirte vida
+                                Quítame la tentación
+                                Ella me mira bonito
+                                Y a mi me sobra el amor
+
+                                Cuando pasó
+                                Dejó la brisa perfumadita
+                                Y la miré
+                                De arriba a abajo toda todita
+                                No pa' que se enamorara
+                                No para que me quisiera
+                                Algo me dice
+                                Que tiene dueño
+                                Algo me dice
+                                Que me enamoré
+
+                                Por qué será
+                                Que todo lo prohibido
+                                Por qué será
+                                Deja un dulcito en la boca
+                                Por qué será
+                                Que por siempre te provoca
+                                Dímelo tú
+                                De aquel amor escondido
+
+                                Déjame decirte vida
+                                Quítame la tentación
+                                Ella me mira bonito
+                                Y a mi me sobra el amor
+                                Déjame decirte vida
+                                Quítame la tentación
+                                Ella me mira bonito
+                                Y a mi me sobra el amor`}),(0,R.jsx)(z,{num:5,titulo:`Cuando uno anda apurao`,letra:`Hay que ver
                                 Que cuando uno anda apurao
                                 Hay que ver
                                 Todo el mundo se atraviesa
@@ -264,7 +320,109 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
                                 Ay quien volara tan alto
                                 Para darle un mordisquito
                                 Laray laralay
-                                Para darle un mordisquito`}),(0,R.jsx)(z,{num:9,titulo:`Mi padre mi amigo`,letra:``}),(0,R.jsx)(z,{num:10,titulo:`Con el mismo amor de siempre`,letra:``})]})})]})}),Zn=()=>(0,R.jsx)(R.Fragment,{children:(0,R.jsxs)(`div`,{className:`seccion row`,children:[(0,R.jsx)(`div`,{className:`col-lg-4`,children:(0,R.jsx)(`img`,{src:`/virgilioarrieta/ArcillaCaminoySol.webp`,className:`img-fluid`})}),(0,R.jsx)(`div`,{className:`col-lg-8`,children:(0,R.jsxs)(`div`,{className:`accordion`,id:`accordionExample`,children:[(0,R.jsx)(z,{num:11,titulo:`Con alma de cantor`,letra:`Tiene alma de cantor
+                                Para darle un mordisquito`}),(0,R.jsx)(z,{num:9,titulo:`Mi padre mi amigo`,letra:`Papá si te vas cuando regresas
+                                Perdóname si te espero
+                                Pero es que yo te quiero, papá
+                                
+                                También te quiero mucho
+                                Lo sabes muy bien
+                                Me llevo tus besitos
+                                Y el olor de tu piel
+                                Por favor píntale a mamá
+                                Con tus creyones
+                                Un cielo azul 
+                                Llenito de corazones
+                                Y cántale mis canciones de amor
+
+                                Cómo hacer para que se quede
+                                Mi padre mi amigo
+                                Que tengo que hacer
+                                Para que estés en mis noches
+                                Me acuestes me arropes
+                                Que debo hacer
+                                Cómo hacer para que se quede
+                                Mi padre mi amigo
+                                Que tengo que hacer
+                                Voy a cumplir las tareas
+                                Haré lo que quieras
+                                Quédate
+
+                                Papá si te vas cuando regresas
+                                Por qué tan grandes maletas
+                                Y por qué tantas ganas de llorar
+                                
+                                La vida tiene cosas
+                                Sin explicación
+                                Tú eres un cometa
+                                Y ella un ventarrón
+                                Por favor píntale a mamá
+                                Con tus creyones
+                                Un cielo azul 
+                                Llenito de corazones
+                                Y cántale mis canciones de amor
+
+                                Cómo hacer para que se quede
+                                Mi padre mi amigo
+                                Que tengo que hacer
+                                Para que estés en mis noches
+                                Me acuestes me arropes
+                                Que debo hacer
+
+                                Cómo hacer para que se quede
+                                Mi padre mi amigo
+                                Que tengo que hacer
+                                Voy a cumplir las tareas
+                                Haré lo que quieras
+                                Quédate
+                                Quédate`}),(0,R.jsx)(z,{num:10,titulo:`Con el mismo amor de siempre`,letra:`Aquí la voy a esperar
+                                La esperaré para siempre
+                                Aquí la voy a esperar
+                                Aquí la voy a esperar
+                                Con el mismo amor de siempre
+
+                                Aquí la voy a esperar
+                                La esperaré para siempre
+                                Aquí la voy a esperar
+                                Aquí la voy a esperar
+                                Con el mismo amor de siempre
+
+                                Deja que se vaya
+                                Que agarre camino adentro
+                                Que caminando la vida
+                                Se llena de sentimiento
+                                Deja que se vaya
+                                No reniegues de la suerte
+                                Que si de verdad te quiere
+                                De ahí mismito se devuelve
+
+                                Deja que se vaya
+                                Que agarre camino adentro
+                                Que caminando la vida
+                                Se llena de sentimiento
+                                Deja que se vaya
+                                No reniegues de la suerte
+                                Que si de verdad te quiere
+                                De ahí mismito se devuelve
+
+                                Cuando haga frio
+                                Recordará cada beso mío
+                                Cuando haga frio
+                                Recordará cada beso mío
+                                Cuando su cuerpo quiera querer
+                                Le sobrarán 
+                                Le sobrarán
+                                Le sobrarán
+                                Las ganas para volver
+                                Le sobrarán 
+                                Le sobrarán
+                                Le sobrarán
+                                Las ganas para volver
+
+                                Cuando el amor es sincero
+                                Mira, tu lo puedes dejar suelto
+                                Es que si, que si te quiere chico
+                                Se devuelve
+                                Se devuelve`})]})})]})}),Zn=()=>(0,R.jsx)(R.Fragment,{children:(0,R.jsxs)(`div`,{className:`seccion row`,children:[(0,R.jsx)(`div`,{className:`col-lg-4`,children:(0,R.jsx)(`img`,{src:`/virgilioarrieta/ArcillaCaminoySol.webp`,className:`img-fluid`})}),(0,R.jsx)(`div`,{className:`col-lg-8`,children:(0,R.jsxs)(`div`,{className:`accordion`,id:`accordionExample`,children:[(0,R.jsx)(z,{num:11,titulo:`Con alma de cantor`,letra:`Tiene alma de cantor
                                 De poeta de señor Don aire
                                 Un constante soñador
                                 Que no oculta el corazón a nadie
@@ -744,422 +902,422 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
                                 Y lo tenemos claro
                                 Orgullosos de soñar
                                 Y de creer en Dios`})]})})]})}),Qn=()=>(0,R.jsx)(R.Fragment,{children:(0,R.jsxs)(`div`,{className:`seccion row`,children:[(0,R.jsx)(`div`,{className:`col-lg-4`,children:(0,R.jsx)(`img`,{src:``,className:`img-fluid`})}),(0,R.jsx)(`div`,{className:`col-lg-8`,children:(0,R.jsxs)(`div`,{className:`accordion`,id:`accordionExample`,children:[(0,R.jsx)(z,{num:23,titulo:`Corazon Venezolano`,letra:`Yo tengo un corazón de alpargatas
-De arepa de fogón café y hamacas
-De mango caña dulce y de riachuelo
-Con mucho sueños trabajo y fé como el abuelo
+                                De arepa de fogón café y hamacas
+                                De mango caña dulce y de riachuelo
+                                Con mucho sueños, trabajo y fé como el abuelo
+                                
+                                Yo tengo un corazón que anda a caballo
+                                Con sombrero de cogollo y con espuelas
+                                Yo tengo un corazón humilde y bueno
+                                Como todo aquel que nace en Venezuela
 
-Yo tengo un corazón que anda a caballo
-Con sombrero de cogollo y con espuelas
-Yo tengo un corazón humilde y bueno
-Como todo aquel que nace en Venezuela
+                                Por eso mi oración
+                                Es una poesía
+                                Mi alma el Orinoco 
+                                Mis ojos la alegría
+                                Mi voz un turpial en la sabana 
+                                Y mi vida conquistar 
+                                Con mucho corazón
+                                A una venezolana
+                                
+                                Por eso mi oración 
+                                Es una poesía
+                                Mi alma el Orinoco 
+                                Mis ojos la alegría
+                                Mi voz un turpial en la sabana 
+                                Y mi vida conquistar 
+                                Con mucho corazón
+                                A una venezolana
+                                
+                                Yo tengo un corazón que anda a caballo
+                                Con sombrero de cogollo y con espuelas
+                                Yo tengo un corazón humilde y bueno
+                                Como todo aquel que nace en Venezuela
+                                
+                                Por eso mi oración 
+                                Es una poesía
+                                Mi alma el Orinoco 
+                                Mis ojos la alegría
+                                Mi voz un turpial en la sabana 
+                                Y mi vida conquistar 
+                                Con mucho corazón
+                                A una venezolana
+                                
+                                Por eso mi oración 
+                                Es una poesía
+                                Mi alma el Orinoco 
+                                Mis ojos la alegría
+                                Mi voz un turpial en la sabana 
+                                Y mi vida conquistar 
+                                Con mucho corazón
+                                A una venezolana`}),(0,R.jsx)(z,{num:24,titulo:`Anda mi amor`,letra:`Tanto
+                                Pero tanto tiempo
+                                Que espere por ti
+                                Déjame abrazarte 
+                                Sabes que te quiero
+                                Sabes que me muero
+                                Por ti
+                                
+                                Anda Mi Amor
+                                Recíbeme una mirada
+                                Anda no voltees la cara
+                                Se me rompe el corazón
+                                Sabes bien que yo te quiero 
+                                Como a nadie en este mundo
+                                Que el camino nos espera
+                                Para que sigamos juntos
+                                
+                                Dime 
+                                Que me quieres con el alma
+                                Porque ya perdí la calma 
+                                Y en el pecho siento un llanto 
+                                Que me ahoga 
+                                Que me mata
+                                Que me oprime 
+                                Que me quita
+                                La ilusión que solo tu mi amor
+                                Me puedes dar
+                                
+                                Pero dime 
+                                Que me quieres con el alma
+                                Porque ya perdí la calma 
+                                Y en el pecho siento un llanto 
+                                Que me ahoga 
+                                Que me mata
+                                Que me oprime 
+                                Que me quita
+                                La ilusión que solo tu mi amor 
+                                Me puedes dar
+                                
+                                Anda Mi Amor
+                                Recíbeme una mirada
+                                Anda no voltees la cara
+                                Se me rompe el corazón
+                                Sabes bien que yo te quiero 
+                                Como a nadie en este mundo
+                                Que el camino nos espera
+                                Para que sigamos juntos
+                                
+                                Dime 
+                                Que me quieres con el alma
+                                Porque ya perdí la calma 
+                                Y en el pecho siento un llanto 
+                                Que me ahoga 
+                                Que me mata
+                                Que me oprime 
+                                Que me quita
+                                La ilusión que solo tu mi amor
+                                Me puedes dar
+                                
+                                Dime 
+                                Que me quieres con el alma
+                                Porque ya perdí la calma 
+                                Y en el pecho siento un llanto 
+                                Que me ahoga 
+                                Que me mata
+                                Que me oprime 
+                                Que me quita
+                                La ilusión que solo tu mi amor 
+                                Me puedes dar`}),(0,R.jsx)(z,{num:25,titulo:`Déjame ser tuyo`,letra:`Dime que tienes en tu boquita 
+                                Que me esta volviendo loco
+                                Déjame probar otro poquito
+                                Bien sabroso y bien dulcito
+                                Como el agüita de coco
+                                
+                                Dime que tienes en tu boquita 
+                                Que me esta volviendo loco
+                                Déjame probar otro poquito
+                                Bien sabroso y bien dulcito
+                                Como no he probado otro
+                                
+                                Déjame 
+                                Que yo sea tuyo
+                                Como el collar en tu pecho
+                                Deja me vaya derecho
+                                Pa' entregármele a tus labios
+                                Déjame que yo te quiera
+                                Despacito despacito
+                                Para que el sol nos sorprenda 
+                                De mañana arropaditos
+                                
+                                Déjame 
+                                Que yo sea tuyo
+                                Como el collar en tu pecho
+                                Deja me vaya derecho
+                                Pa' entregármele a tus labios
+                                Déjame que yo te quiera
+                                Despacito despacito
+                                Para que el sol nos sorprenda 
+                                De mañana arropaditos
+                                
+                                Dime que tienes en tu boquita
+                                Que me esta volviendo loco
+                                Déjame probar otro poquito
+                                Bien sabroso y bien dulcito
+                                Como no he probado otro
+                                
+                                Dime que tienes en tu boquita 
+                                Que me esta volviendo loco
+                                Déjame probar otro poquito
+                                Bien sabroso y bien dulcito
+                                Como el agüita de coco
+                                
+                                Déjame 
+                                Que yo sea tuyo
+                                Como el collar en tu pecho
+                                Deja me vaya derecho
+                                Pa' entregármele a tus labios
+                                Déjame que yo te quiera
+                                Despacito despacito
+                                Para que el sol nos sorprenda 
+                                De mañana arropaditos
+                                
+                                Déjame 
+                                Que yo sea tuyo
+                                Como el collar en tu pecho
+                                Deja me vaya derecho
+                                Pa' entregármele a tus labios
+                                Déjame que yo te quiera
+                                Despacito despacito
+                                Para que el sol nos sorprenda 
+                                De mañana arropaditos`}),(0,R.jsx)(z,{num:26,titulo:`Si no consigo olvidarla`,letra:`Yo no sé que va a pasar
+                                Si no consigo olvidarla
+                                Cierro los ojos la miro
+                                Y entonces creo besarla
+                                Creo tenerla en mis brazos 
+                                Pero los sueños se escapan
+                                Y al abrir pronto mis ojos 
+                                La pena se hace mas larga
+                                
+                                El jagüey se esta secando
+                                En mi corazón de olvido
+                                Y mi alma esta llorando
+                                Por ese amor que se ha ido
+                                El fantasma de los celos 
+                                Se acurruca aquí en mi almohada
+                                De aquel amor tan bonito
+                                Ya no está quedando nada
+                                
+                                Mas yo sé
+                                Te olvidaré con el tiempo
+                                Pero no llega el momento
+                                Y los recuerdos me atan
+                                A ese sabor de tus labios
+                                A esa dulzura que mata
+                                
+                                Mas yo sé 
+                                Que todo no se ha perdido
+                                Que el sol se mete una noche
+                                Y viene el día y lo saca
+                                Y el que al amor es sincero
+                                Si no ha de ganar empata
+                                
+                                Yo no se que va a pasar
+                                Si no consigo olvidarla
+                                Cierro los ojos la miro
+                                Y entonces creo besarla
+                                Creo tenerla en mis brazos
+                                Pero los sueños se escapan
+                                Y al abrir pronto mis ojos
+                                La pena se hace mas larga
+                                
+                                El jagüey se esta secando
+                                En mi corazón de olvido
+                                Y mi alma esta llorando
+                                Por ese amor que se ha ido
+                                El fantasma de los celos 
+                                Se acurruca aquí en mi almohada
+                                De aquel amor tan bonito
+                                Ya no está quedando nada
+                                
+                                Mas yo sé 
+                                Te olvidaré con el tiempo
+                                Pero no llega el momento
+                                Y los recuerdos me atan
+                                A ese sabor de tus labios
+                                A esa dulzura que mata
+                                
+                                Mas yo sé
+                                Que todo no se ha perdido
+                                Que el sol se mete una noche
+                                Y viene el día y lo saca
+                                Y  el que al amor es sincero
+                                Si no ha de ganar empata`}),(0,R.jsx)(z,{num:27,titulo:`Vuelve`,letra:`Necesito de tu risa 
+                                De tu voz
+                                De tu alegría
+                                La felicidad que da tu compañía
+                                Necesito tus caricias
+                                De tu olor a piel desnuda
+                                De los besos
+                                De tu boquita menuda
+                                Del calor que hay en tu abrazo
+                                De la luz de tu mirada
+                                De tu amor
+                                Porque sin ti no valgo nada
+                                
+                                Vuelve amor
+                                Que sin ti
+                                Lo que queda 
+                                De este loco enamorado
+                                Se lo llevara el vacío
+                                El silencio y la soledad
+                                Los recuerdos 
+                                Y las ganas de llorar
+                                
+                                Vuelve amor
+                                Que sin ti
+                                Una lluvia moja a cantaros mi alma
+                                Cada noche se hace eterna
+                                Y no hay luz en el amanecer
+                                Porque ya no estas conmigo al despertar
+                                
+                                Necesito de tu risa
+                                De tu voz
+                                De tu alegría
+                                La felicidad que da tu compañía
+                                Necesito tus caricias
+                                De tu olor a piel desnuda
+                                De los besos
+                                De tu boquita menuda
+                                Del calor que hay en tu abrazo
+                                De la luz de tu mirada
+                                De tu amor 
+                                Porque sin ti no valgo nada
+                                
+                                Vuelve amor
+                                Que sin ti
+                                Lo que queda 
+                                De este loco enamorado
+                                Se lo llevara el vacío
+                                El silencio y la soledad
+                                Los recuerdos 
+                                Y las ganas de llorar
 
-Por eso mi oración 
-Es una poesía
-Mi alma el Orinoco 
-Mis ojos la alegría
-Mi voz un turpial en la sabana 
-Y mi vida conquistar 
-Con mucho corazón
-A una venezolana
+                                Vuelve amor
+                                Que sin ti
+                                Una lluvia moja a cantaros mi alma
+                                Cada noche se hace eterna
+                                Y no hay luz en el amanecer
+                                Porque ya no estas conmigo al despertar
 
-Por eso mi oración 
-Es una poesía
-Mi alma el Orinoco 
-Mis ojos la alegría
-Mi voz un turpial en la sabana 
-Y mi vida conquistar 
-Con mucho corazón
-A una venezolana
+                                Vuelve amor
+                                Que sin ti
+                                Lo que queda
+                                De este loco enamorado
+                                Se lo llevara el vacío
+                                El silencio y la soledad
+                                Los recuerdos 
+                                Y las ganas de llorar
 
-Yo tengo un corazón que anda a caballo
-Con sombrero de cogollo y con espuelas
-Yo tengo un corazón humilde y bueno
-Como todo aquel que nace en Venezuela
+                                Vuelve amor
+                                Que sin ti
+                                Una lluvia moja a cantaros mi alma
+                                Cada noche se hace eterna
+                                Y no hay luz en el amanecer
+                                Porque ya no estas conmigo al despertar
+                                Al despertar…`}),(0,R.jsx)(z,{num:28,titulo:`María`,letra:`Vístete María 
+                                Pa' que vamos pa' una fiesta
+                                Y seguramente
+                                Toda la gente esta bien pulia
+                                Vístete María 
+                                Que vas a quedar bonita
+                                Si te pones en el pelo
+                                Una cayena rojita
 
-Por eso mi oración 
-Es una poesía
-Mi alma el Orinoco 
-Mis ojos la alegría
-Mi voz un turpial en la sabana 
-Y mi vida conquistar 
-Con mucho corazón
-A una venezolana
+                                Suenan los tambores
+                                Mi corazón se revienta
+                                Los pies se me mueven solos
+                                Porque lo mío es la fiesta
 
-Por eso mi oración 
-Es una poesía
-Mi alma el Orinoco 
-Mis ojos la alegría
-Mi voz un turpial en la sabana 
-Y mi vida conquistar 
-Con mucho corazón
-A una venezolana`}),(0,R.jsx)(z,{num:24,titulo:`Anda mi amor`,letra:`Tanto
-Pero tanto tiempo
-Que espere por ti
-Déjame abrazarte 
-Sabes que te quiero
-Sabes que me muero
-Por ti
+                                Suenan los tambores
+                                Mi corazón se revienta
+                                Los pies se me mueven solos
+                                Porque lo mío es la fiesta
 
-Anda Mi Amor
-Recíbeme una mirada
-Anda no voltees la cara
-Se me rompe el corazón
-Sabes bien que yo te quiero 
-Como a nadie en este mundo
-Que el camino nos espera
-Para que sigamos juntos
+                                Apura el paso
+                                No te me quedes María
+                                Que quiero bailar contigo
+                                Hasta que amanezca el día
+                                Tu boca será mi boca
+                                Y tu mirada la mía 
 
-Dime 
-Que me quieres con el alma
-Porque ya perdí la calma 
-Y en el pecho siento un llanto 
-Que me ahoga 
-Que me mata
-Que me oprime 
-Que me quita
-La ilusión que solo tu mi amor
-Me puedes dar
+                                Apura el paso
+                                No te me quedes María
+                                Que quiero bailar contigo
+                                Hasta que amanezca el día
+                                Tu boca será mi boca
+                                Y tu mirada la mía 
 
-Pero dime 
-Que me quieres con el alma
-Porque ya perdí la calma 
-Y en el pecho siento un llanto 
-Que me ahoga 
-Que me mata
-Que me oprime 
-Que me quita
-La ilusión que solo tu mi amor 
-Me puedes dar
+                                Vístete María
+                                Te quiero colgar la luna
+                                En el talle de tu vientre
+                                Y al borde de tu cintura
 
-Anda Mi Amor
-Recíbeme una mirada
-Anda no voltees la cara
-Se me rompe el corazón
-Sabes bien que yo te quiero 
-Como a nadie en este mundo
-Que el camino nos espera
-Para que sigamos juntos
+                                Vístete María
+                                Quiero tenerte en mis brazos
+                                Ven y cura ese vacío
+                                De un corazón en pedazos
 
-Dime 
-Que me quieres con el alma
-Porque ya perdí la calma 
-Y en el pecho siento un llanto 
-Que me ahoga 
-Que me mata
-Que me oprime 
-Que me quita
-La ilusión que solo tu mi amor
-Me puedes dar
+                                Suenan los tambores
+                                Mi corazón se revienta
+                                Los pies se me mueven solos
+                                Porque lo mío es la fiesta
 
-Dime 
-Que me quieres con el alma
-Porque ya perdí la calma 
-Y en el pecho siento un llanto 
-Que me ahoga 
-Que me mata
-Que me oprime 
-Que me quita
-La ilusión que solo tu mi amor 
-Me puedes dar`}),(0,R.jsx)(z,{num:25,titulo:`Déjame ser tuyo`,letra:`Dime que tienes en tu boquita 
-Que me esta volviendo loco
-Déjame probar otro poquito
-Bien sabroso y bien dulcito
-Como el agüita de coco
+                                Suenan los tambores
+                                Mi corazón se revienta
+                                Los pies se me mueven solos
+                                Porque lo mío es la fiesta
 
-Dime que tienes en tu boquita 
-Que me esta volviendo loco
-Déjame probar otro poquito
-Bien sabroso y bien dulcito
-Como no he probado otro
+                                Apura el paso
+                                No te me quedes María
+                                Que quiero bailar contigo
+                                Hasta que amanezca el día
+                                Tu boca será mi boca
+                                Y tu mirada la mía 
 
-Déjame 
-Que yo sea tuyo
-Como el collar en tu pecho
-Deja me vaya derecho
-Pa’ entregármele a tus labios
-Déjame que yo te quiera
-Despacito despacito
-Para que el sol nos sorprenda 
-De mañana arropaditos
+                                Apura el paso
+                                No te me quedes María
+                                Que quiero bailar contigo
+                                Hasta que amanezca el día
+                                Tu boca será mi boca
+                                Y tu mirada la mía 
+                                Tu boca será mi boca
+                                Y tu mirada la mía 
 
-Déjame 
-Que yo sea tuyo
-Como el collar en tu pecho
-Deja me vaya derecho
-Pa’ entregármele a tus labios
-Déjame que yo te quiera
-Despacito despacito
-Para que el sol nos sorprenda 
-De mañana arropaditos
+                                Apura el paso
+                                Al paso camina el paso
+                                Apura el paso María
+                                Que me mata la emoción
 
-Dime que tienes en tu boquita
-Que me esta volviendo loco
-Déjame probar otro poquito
-Bien sabroso y bien dulcito
-Como no he probado otro
+                                Apura el paso
+                                Al paso camina el paso
+                                Tu cara, tu boca, tus ojos
+                                Motivos de mi canción
 
-Dime que tienes en tu boquita 
-Que me esta volviendo loco
-Déjame probar otro poquito
-Bien sabroso y bien dulcito
-Como el agüita de coco
+                                Apura el paso
+                                Al paso camina el paso
+                                Anda bailemos María
+                                Quiero sentir tu calor
 
-Déjame 
-Que yo sea tuyo
-Como el collar en tu pecho
-Deja me vaya derecho
-Pa’ entregármele a tus labios
-Déjame que yo te quiera
-Despacito despacito
-Para que el sol nos sorprenda 
-De mañana arropaditos
+                                Apura el paso
+                                Al paso camina el paso
+                                ¡Ay María! ¡Mi María!
+                                Eres tu mi corazón
 
-Déjame 
-Que yo sea tuyo
-Como el collar en tu pecho
-Deja me vaya derecho
-Pa’ entregármele a tus labios
-Déjame que yo te quiera
-Despacito despacito
-Para que el sol nos sorprenda 
-De mañana arropaditos`}),(0,R.jsx)(z,{num:26,titulo:`Si no consigo olvidarla`,letra:`Yo no sé que va a pasar
-Si no consigo olvidarla
-Cierro los ojos la miro
-Y entonces creo besarla
-Creo tenerla en mis brazos 
-Pero los sueños se escapan
-Y al abrir pronto mis ojos 
-La pena se hace mas larga
+                                Apura el paso
+                                Al paso camina el paso
+                                Al paso camina el paso
+                                Al paso es que tu vas bien
 
-El jagüey se esta secando
-En mi corazón de olvido
-Y mi alma esta llorando
-Por ese amor que se ha ido
-El fantasma de los celos 
-Se acurruca aquí en mi almohada
-De aquel amor tan bonito
-Ya no está quedando nada
+                                Apura el paso
+                                Al paso camina el paso
+                                Los pies se me mueven solos
+                                Al ritmo de tu vaivén 
 
-Mas yo sé
-Te olvidaré con el tiempo
-Pero no llega el momento
-Y los recuerdos me atan
-A ese sabor de tus labios
-A esa dulzura que mata
-
-Mas yo sé 
-Que todo no se ha perdido
-Que el sol se mete una noche
-Y viene el día y lo saca
-Y el que al amor es sincero
-Si no ha de ganar empata
-
-Yo no se que va a pasar
-Si no consigo olvidarla
-Cierro los ojos la miro
-Y entonces creo besarla
-Creo tenerla en mis brazos
-Pero los sueños se escapan
-Y al abrir pronto mis ojos
-La pena se hace mas larga
-
-El jagüey se esta secando
-En mi corazón de olvido
-Y mi alma esta llorando
-Por ese amor que se ha ido
-El fantasma de los celos 
-Se acurruca aquí en mi almohada
-De aquel amor tan bonito
-Ya no está quedando nada
-
-Mas yo sé 
-Te olvidaré con el tiempo
-Pero no llega el momento
-Y los recuerdos me atan
-A ese sabor de tus labios
-A esa dulzura que mata
-
-Mas yo sé
-Que todo no se ha perdido
-Que el sol se mete una noche
-Y viene el día y lo saca
-Y  el que al amor es sincero
-Si no ha de ganar empata`}),(0,R.jsx)(z,{num:27,titulo:`Vuelve`,letra:`Necesito de tu risa 
-De tu voz
-De tu alegría
-La felicidad que da tu compañía
-Necesito tus caricias
-De tu olor a piel desnuda
-De los besos
-De tu boquita menuda
-Del calor que hay en tu abrazo
-De la luz de tu mirada
-De tu amor
-Porque sin ti no valgo nada
-
-Vuelve amor
-Que sin ti
-Lo que queda 
-De este loco enamorado
-Se lo llevara el vacío
-El silencio y la soledad
-Los recuerdos 
-Y las ganas de llorar
-
-Vuelve amor
-Que sin ti
-Una lluvia moja a cantaros mi alma
-Cada noche se hace eterna
-Y no hay luz en el amanecer
-Porque ya no estas conmigo al despertar
-
-Necesito de tu risa
-De tu voz
-De tu alegría
-La felicidad que da tu compañía
-Necesito tus caricias
-De tu olor a piel desnuda
-De los besos
-De tu boquita menuda
-Del calor que hay en tu abrazo
-De la luz de tu mirada
-De tu amor 
-Porque sin ti no valgo nada
-
-Vuelve amor
-Que sin ti
-Lo que queda 
-De este loco enamorado
-Se lo llevara el vacío
-El silencio y la soledad
-Los recuerdos 
-Y las ganas de llorar
-
-Vuelve amor
-Que sin ti
-Una lluvia moja a cantaros mi alma
-Cada noche se hace eterna
-Y no hay luz en el amanecer
-Porque ya no estas conmigo al despertar
-
-Vuelve amor
-Que sin ti
-Lo que queda
-De este loco enamorado
-Se lo llevara el vacío
-El silencio y la soledad
-Los recuerdos 
-Y las ganas de llorar
-
-Vuelve amor
-Que sin ti
-Una lluvia moja a cantaros mi alma
-Cada noche se hace eterna
-Y no hay luz en el amanecer
-Porque ya no estas conmigo al despertar
-Al despertar…`}),(0,R.jsx)(z,{num:28,titulo:`María`,letra:`Vístete María 
-Pa’ que vamos pa’ una fiesta
-Y seguramente
-Toda la gente esta bien pulia
-Vístete María 
-Que vas a quedar bonita
-Si te pones en el pelo
-Una cayena rojita
-
-Suenan los tambores
-Mi corazón se revienta
-Los pies se me mueven solos
-Porque lo mío es la fiesta
-
-Suenan los tambores
-Mi corazón se revienta
-Los pies se me mueven solos
-Porque lo mío es la fiesta
-
-Apura el paso
-No te me quedes María
-Que quiero bailar contigo
-Hasta que amanezca el día
-Tu boca será mi boca
-Y tu mirada la mía 
-
-Apura el paso
-No te me quedes María
-Que quiero bailar contigo
-Hasta que amanezca el día
-Tu boca será mi boca
-Y tu mirada la mía 
-
-Vístete María
-Te quiero colgar la luna
-En el talle de tu vientre
-Y al borde de tu cintura
-
-Vístete María
-Quiero tenerte en mis brazos
-Ven y cura ese vacío
-De un corazón en pedazos
-
-Suenan los tambores
-Mi corazón se revienta
-Los pies se me mueven solos
-Porque lo mío es la fiesta
-
-Suenan los tambores
-Mi corazón se revienta
-Los pies se me mueven solos
-Porque lo mío es la fiesta
-
-Apura el paso
-No te me quedes María
-Que quiero bailar contigo
-Hasta que amanezca el día
-Tu boca será mi boca
-Y tu mirada la mía 
-
-Apura el paso
-No te me quedes María
-Que quiero bailar contigo
-Hasta que amanezca el día
-Tu boca será mi boca
-Y tu mirada la mía 
-Tu boca será mi boca
-Y tu mirada la mía 
-
-Apura el paso
-Al paso camina el paso
-Apura el paso María
-Que me mata la emoción
-
-Apura el paso
-Al paso camina el paso
-Tu cara, tu boca, tus ojos
-Motivos de mi canción
-
-Apura el paso
-Al paso camina el paso
-Anda bailemos María
-Quiero sentir tu calor
-
-Apura el paso
-Al paso camina el paso
-¡Ay María! ¡Mi María!
-Eres tu mi corazón
-
-Apura el paso
-Al paso camina el paso
-Al paso camina el paso
-Al paso es que tu vas bien
-
-Apura el paso
-Al paso camina el paso
-Los pies se me mueven solos
-Al ritmo de tu vaivén 
-
-Apura el paso
-Al paso camina el paso
-Que no se rompa la noche
-Te invito a esperar el sol`}),(0,R.jsx)(z,{num:29,titulo:`Cuando uno anda apurao'`,letra:`Hay que ver
+                                Apura el paso
+                                Al paso camina el paso
+                                Que no se rompa la noche
+                                Te invito a esperar el sol`}),(0,R.jsx)(z,{num:29,titulo:`Cuando uno anda apurao'`,letra:`Hay que ver
                                 Que cuando uno anda apurao
                                 Hay que ver
                                 Todo el mundo se atraviesa
@@ -1224,221 +1382,221 @@ Te invito a esperar el sol`}),(0,R.jsx)(z,{num:29,titulo:`Cuando uno anda apurao
                                 Se ponen que echan candela
                                 Y el humano se transforma
                                 En la peor de las fieras`}),(0,R.jsx)(z,{num:30,titulo:`La vida es un pan con leche`,letra:`Cuando Dios creaba al hombre
-Cuando Dios creaba al hombre
-Éste pidió eternidad
-Y Dios le dijo es eterno
-El amor y la verdad
-Y Dios le dijo es eterno
-El amor y la verdad
+                                Cuando Dios creaba al hombre
+                                Éste pidió eternidad
+                                Y Dios le dijo es eterno
+                                El amor y la verdad
+                                Y Dios le dijo es eterno
+                                El amor y la verdad
 
-La vida es un pan con leche
-Vivida de corazón
-Dulcita porque es del cielo
-Sagrada porque es de Dios
-La vida es un pan con leche
-Vivida de corazón
+                                La vida es un pan con leche
+                                Vivida de corazón
+                                Dulcita porque es del cielo
+                                Sagrada porque es de Dios
+                                La vida es un pan con leche
+                                Vivida de corazón
 
-La vida es un pan con leche
-Vivida de corazón
-Dulcita porque es del cielo
-Sagrada porque es de Dios
-La vida es un pan con leche
-Vivida de corazón
-La vida es un pan con leche
-Vivida de corazón
+                                La vida es un pan con leche
+                                Vivida de corazón
+                                Dulcita porque es del cielo
+                                Sagrada porque es de Dios
+                                La vida es un pan con leche
+                                Vivida de corazón
+                                La vida es un pan con leche
+                                Vivida de corazón
 
-La conciencia es papagayo
-La conciencia es papagayo
-Niño cordel cielo y brisa
-Lleva en el rostro la calma
-Y en la boca la sonrisa
-Lleva en el rostro la calma
-Y en la boca la sonrisa
+                                La conciencia es papagayo
+                                La conciencia es papagayo
+                                Niño cordel cielo y brisa
+                                Lleva en el rostro la calma
+                                Y en la boca la sonrisa
+                                Lleva en el rostro la calma
+                                Y en la boca la sonrisa
 
-La vida es un pan con leche
-Vivida de corazón
-Dulcita porque es del cielo
-Sagrada porque es de Dios
-La vida es un pan con leche
-Vivida de corazón
+                                La vida es un pan con leche
+                                Vivida de corazón
+                                Dulcita porque es del cielo
+                                Sagrada porque es de Dios
+                                La vida es un pan con leche
+                                Vivida de corazón
 
-La vida es un pan con leche
-Vivida de corazón
-Dulcita porque es del cielo
-Sagrada porque es de Dios
-La vida es un pan con leche
-Vivida de corazón
-La vida es un pan con leche
-Vivida de corazón
+                                La vida es un pan con leche
+                                Vivida de corazón
+                                Dulcita porque es del cielo
+                                Sagrada porque es de Dios
+                                La vida es un pan con leche
+                                Vivida de corazón
+                                La vida es un pan con leche
+                                Vivida de corazón
 
-Mi abuela mirando el cielo
-Mi abuela mirando el cielo
-Sabia que iba a llover
-Llueve dentro de mi alma
-Porque mi abuela se fue
-Llueve dentro de mi alma
-Porque mi abuela se fue
+                                Mi abuela mirando el cielo
+                                Mi abuela mirando el cielo
+                                Sabia que iba a llover
+                                Llueve dentro de mi alma
+                                Porque mi abuela se fue
+                                Llueve dentro de mi alma
+                                Porque mi abuela se fue
 
-La vida es un pan con leche
-Vivida de corazón
-Dulcita porque es del cielo
-Sagrada porque es de Dios
-La vida es un pan con leche
-Vivida de corazón
+                                La vida es un pan con leche
+                                Vivida de corazón
+                                Dulcita porque es del cielo
+                                Sagrada porque es de Dios
+                                La vida es un pan con leche
+                                Vivida de corazón
 
-La vida es un pan con leche
-Vivida de corazón
-Dulcita porque es del cielo
-Sagrada porque es de Dios
-La vida es un pan con leche
-Vivida de corazón
-La vida es un pan con leche
-Vivida de corazón`}),(0,R.jsx)(z,{num:31,titulo:`Mi pueblo`,letra:`Mi pueblo 
-Tiene una plaza
-Unas cuantas casas
-Gente, bodegas, esquinas
-Caballos, gallinas
-Caminos e historias
-Y mi pueblo tiene algo mas
-Que en algunas tardes
-Me hace llorar
+                                La vida es un pan con leche
+                                Vivida de corazón
+                                Dulcita porque es del cielo
+                                Sagrada porque es de Dios
+                                La vida es un pan con leche
+                                Vivida de corazón
+                                La vida es un pan con leche
+                                Vivida de corazón`}),(0,R.jsx)(z,{num:31,titulo:`Mi pueblo`,letra:`Mi pueblo 
+                                Tiene una plaza
+                                Unas cuantas casas
+                                Gente, bodegas, esquinas
+                                Caballos, gallinas
+                                Caminos e historias
+                                Y mi pueblo tiene algo mas
+                                Que en algunas tardes
+                                Me hace llorar
 
-Mi pueblo
-También tiene un santo
-Sus bailes sus cantos
-Una iglesia
-Un cielo clarito
-Niños pequeñitos
-Que pintan estrellas
-Soñando como yo soñé
-Cuando en el ayer crecía
+                                Mi pueblo
+                                También tiene un santo
+                                Sus bailes sus cantos
+                                Una iglesia
+                                Un cielo clarito
+                                Niños pequeñitos
+                                Que pintan estrellas
+                                Soñando como yo soñé
+                                Cuando en el ayer crecía
 
-Y como ante un espejo
-Turpial azulejo
-Soy montaña y flores
-Y también soy rumores
-De que va a llover
+                                Y como ante un espejo
+                                Turpial azulejo
+                                Soy montaña y flores
+                                Y también soy rumores
+                                De que va a llover
 
-Y no se porque lloro
-Envuelto en recuerdos
-Pero se 
-Que fue por ellos
-Que he vuelto a encontrar
-Mi identidad
+                                Y no se porque lloro
+                                Envuelto en recuerdos
+                                Pero se 
+                                Que fue por ellos
+                                Que he vuelto a encontrar
+                                Mi identidad
 
-Y Como ante un espejo
-Turpial azulejo
-Soy montaña y flores
-Y también soy rumores
-De que va a llover
+                                Y Como ante un espejo
+                                Turpial azulejo
+                                Soy montaña y flores
+                                Y también soy rumores
+                                De que va a llover
 
-Y no se porque lloro
-Envuelto en recuerdos
-Pero se 
-Que fue por ellos
-Que he vuelto a encontrar
-Mi identidad
+                                Y no se porque lloro
+                                Envuelto en recuerdos
+                                Pero se 
+                                Que fue por ellos
+                                Que he vuelto a encontrar
+                                Mi identidad
 
-Mi pueblo 
-Tiene una plaza
-Unas cuantas casas
-Y me tiene a mi`}),(0,R.jsx)(z,{num:32,titulo:`Y cuenta que cuenta cuentos`,letra:`Ya le canté los pollitos
-Le hable del gato
-De la lora
-Y del abuelo
-Y cuenta que cuenta cuentos
-Y esos ojitos
-Nada que agarran el sueño
+                                Mi pueblo 
+                                Tiene una plaza
+                                Unas cuantas casas
+                                Y me tiene a mi`}),(0,R.jsx)(z,{num:32,titulo:`Y cuenta que cuenta cuentos`,letra:`Ya le canté los pollitos
+                                Le hable del gato
+                                De la lora
+                                Y del abuelo
+                                Y cuenta que cuenta cuentos
+                                Y esos ojitos
+                                Nada que agarran el sueño
 
-Ya le canté los pollitos
-Le hable del gato
-De la lora
-Y del abuelo
-Y cuenta que cuenta cuentos
-Y esos ojitos
-Nada que agarran el sueño
+                                Ya le canté los pollitos
+                                Le hable del gato
+                                De la lora
+                                Y del abuelo
+                                Y cuenta que cuenta cuentos
+                                Y esos ojitos
+                                Nada que agarran el sueño
 
-Ya le rece un Padre Nuestro
-Y a un angelito le dije
-Le acompañara
-Los cachetitos
-Ya se los llene de besos
-Pero mi niño dormir
-No quiere nada
+                                Ya le rece un Padre Nuestro
+                                Y a un angelito le dije
+                                Le acompañara
+                                Los cachetitos
+                                Ya se los llene de besos
+                                Pero mi niño dormir
+                                No quiere nada
 
-Pasan las horas
-Duérmase niño
-Duérmase niño
-Que yo lo arrullo
-El frío 
-Se mete 
-Por la ventana
-Se oye el cantar de las ranas
-Y los grillos
-De la noche
-Y un lucerito del cielo
-Brilla con todas sus ganas
-Y en el jardín las cayenas
-Florecen todas las ramas
+                                Pasan las horas
+                                Duérmase niño
+                                Duérmase niño
+                                Que yo lo arrullo
+                                El frío 
+                                Se mete 
+                                Por la ventana
+                                Se oye el cantar de las ranas
+                                Y los grillos
+                                De la noche
+                                Y un lucerito del cielo
+                                Brilla con todas sus ganas
+                                Y en el jardín las cayenas
+                                Florecen todas las ramas
 
-Pasan las horas
-Duérmase niño
-Duérmase niño
-Que yo lo arrullo
-El frío 
-Se mete 
-Por la ventana
-Se oye el cantar de las ranas
-Y los grillos
-De la noche
-Y en un barquito de sueños
-Llegamos a la mañana
-Él dormidito en mi pecho
-Y yo a mitad de la cama
-Él dormidito en mi pecho
-Y yo a mitad de la cama`}),(0,R.jsx)(z,{num:33,titulo:`El fragil sueño de la vida`,letra:`Mueve
-El viento la rama
-Dónde esta el nido
-Donde esta el ave
-Donde esta el pequeño pichoncito
-Donde esta el pequeño pichoncito
+                                Pasan las horas
+                                Duérmase niño
+                                Duérmase niño
+                                Que yo lo arrullo
+                                El frío 
+                                Se mete 
+                                Por la ventana
+                                Se oye el cantar de las ranas
+                                Y los grillos
+                                De la noche
+                                Y en un barquito de sueños
+                                Llegamos a la mañana
+                                Él dormidito en mi pecho
+                                Y yo a mitad de la cama
+                                Él dormidito en mi pecho
+                                Y yo a mitad de la cama`}),(0,R.jsx)(z,{num:33,titulo:`El fragil sueño de la vida`,letra:`Mueve
+                                El viento la rama
+                                Dónde esta el nido
+                                Donde esta el ave
+                                Donde esta el pequeño pichoncito
+                                Donde esta el pequeño pichoncito
 
-Mueve
-El viento la nube
-Donde esta el agua
-Que ha subido al cielo
-Para gota a gota
-Hacer la lluvia
-Para gota a gota
-Hacer la lluvia
+                                Mueve
+                                El viento la nube
+                                Donde esta el agua
+                                Que ha subido al cielo
+                                Para gota a gota
+                                Hacer la lluvia
+                                Para gota a gota
+                                Hacer la lluvia
 
-Mueve
-El viento la espiga
-Que bordea el camino
-Que conduce siempre
-Al sincero abrazo
-De un amigo
-Al sincero abrazo
-De un amigo
+                                Mueve
+                                El viento la espiga
+                                Que bordea el camino
+                                Que conduce siempre
+                                Al sincero abrazo
+                                De un amigo
+                                Al sincero abrazo
+                                De un amigo
 
-Mueve
-El viento la hoja
-Que se ha desprendido
-Porque ya ha cumplido
-Con el frágil sueño de la vida
-Con el frágil sueño de la vida
+                                Mueve
+                                El viento la hoja
+                                Que se ha desprendido
+                                Porque ya ha cumplido
+                                Con el frágil sueño de la vida
+                                Con el frágil sueño de la vida
 
-Viento 
-Sol y papagayo
-Se bañan de estrellas
-En el mes de mayo
+                                Viento 
+                                Sol y papagayo
+                                Se bañan de estrellas
+                                En el mes de mayo
 
-Viento
-Recibe mis versos
-Y entrégale al mundo
-Un cálido beso
-Entrégale al mundo
-Un cálido beso`}),(0,R.jsx)(z,{num:34,titulo:`Lara es una sola`,letra:`Yo soy un buen tocuyano
+                                Viento
+                                Recibe mis versos
+                                Y entrégale al mundo
+                                Un cálido beso
+                                Entrégale al mundo
+                                Un cálido beso`}),(0,R.jsx)(z,{num:34,titulo:`Lara es una sola`,letra:`Yo soy un buen tocuyano
                                 Soy de Duaca soy de Quibor
                                 De Carora Cabudare
                                 Santa Rosa y de Cubiro
