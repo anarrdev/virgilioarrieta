@@ -45,8 +45,8 @@ const Arte = () => {
                         img4="/virgilioarrieta/MuralUcla3.webp"
                     />
 
-                    <div className="text-center p-2">
-                        <h4>"Ah mundo Barquisimeto"</h4>
+                    <div className="text-center">
+                        <h4 className="mt-2">"Ah mundo Barquisimeto"</h4>
                         <p>Técnica: Pigmento sobre gres - Medidas: 224m2 - Lugar: Rectorado de la UCLA, Barquisimeto, Edo. Lara-Venezuela</p>
                         <p>Año: 2003</p>
                     </div>
@@ -63,7 +63,7 @@ const Arte = () => {
                     />
 
                     <div className="text-center p-2">
-                        <h4>"ASCARDIO"</h4>
+                        <h4 className="mt-2">"ASCARDIO"</h4>
                         <p>Técnica: Pigmento sobre madera - Medidas: - Lugar: ASCARDIO, Barquisimeto, Edo. Lara-Venezuela</p>
                         <p>Año: 2021</p>
                     </div>
