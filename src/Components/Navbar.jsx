@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 function Navbar() {
     return (
-        <nav className="navbar navbar-expand-lg seccion">
+        <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
             <div className="container">
                 <Link to="/" className="navbar-brand d-flex align-items-center gap-2">
                     <i className="bi bi-palette"></i>

@@ -5,7 +5,7 @@ import { BotonesRS } from "../../Components/Botones"; //importacion del componen
 function Banner() {
     return (
         <>
-            <img src="/virgilioarrieta/UltimaCena.webp" className="card-img-banner" alt="Obra Ultima Cena Musicos - Virgilio Arrieta" />
+            <img src="/virgilioarrieta/MuralOriginalUCLA.webp" className="card-img-banner" alt="Obra Ultima Cena Musicos - Virgilio Arrieta" />
 
             {/*Comentario de bienvenida a la pagina*/}
             <p>Te invitamos a explorar su universo artístico, donde cada creación cuenta una historia y despierta emociones. Descubre sus murales vibrantes, su música envolvente y sus escritos inspiradores. Gracias por acompañar a Virgilio en este emocionante viaje creativo.</p>
