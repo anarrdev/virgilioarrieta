@@ -6,7 +6,7 @@ const Arte = () => {
     return (
         <div className="d-flex flex-column gap-2">
 
-            <img src="/virgilioarrieta/UltimaCena.webp" className="card-img-banner" alt="Obra Ultima Cena Musicos - Virgilio Arrieta" />
+            <img src="/virgilioarrieta/ObraProcesionDP.webp" className="card-img-banner" alt="ObraProcesionDP - Virgilio Arrieta" style={{objectPosition: "50% 23%"}}/>
 
             <h2>Arte</h2>
 
@@ -59,13 +59,30 @@ const Arte = () => {
                     <CarruselNo
                         id="MuralAscardio"
                         img1="/virgilioarrieta/MuralAscardio.webp"
-                        img2=""
+                        img2="/virgilioarrieta/MuralAscardio1.webp"
                     />
 
                     <div className="text-center p-2">
                         <h4 className="mt-2">"ASCARDIO"</h4>
                         <p>Técnica: Pigmento sobre madera - Medidas: - Lugar: ASCARDIO, Barquisimeto, Edo. Lara-Venezuela</p>
                         <p>Año: 2021</p>
+                    </div>
+                </div>
+
+
+                <div className="mt-2">
+
+                    {/* MuralUniversidad Valencia */}
+                    <CarruselNo
+                        id="MuralUniversidadValencia"
+                        img1="/virgilioarrieta/MuralUniversidadValencia.webp"
+                        img2="/virgilioarrieta/MuralUniversidadValencia1.webp"
+                    />
+
+                    <div className="text-center p-2">
+                        <h4 className="mt-2">"Universalidad"</h4>
+                        <p>Técnica: Pigmento sobre gres - Medidas: - Lugar: Universidad, Valencia, Edo. Carabobo-Venezuela</p>
+                        <p></p>
                     </div>
                 </div>
 

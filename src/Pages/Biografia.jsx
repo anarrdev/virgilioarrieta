@@ -49,6 +49,7 @@ const Biografia = () => {
             {/*JUVENTUD*/}
             <CardSeccion titulo="Juventud y Formación Dual"
                 img="/virgilioarrieta/VAJoven.webp"
+                caption='Virgilio Arrieta foto interna disco: Canto Portatil'
                 texto={<>
                     Durante su adolescencia, Virgilio continuó cultivando su amor por las artes mientras cumplía con sus estudios formales. <b>A los 19 años se trasladó a Barquisimeto para estudiar Contaduría Pública y Finanzas en la universidad</b>, una decisión que le permitió desarrollar una formación académica sólida. Sin embargo, nunca perdió de vista su verdadero llamado: el arte y la música.
                     <br /><br />
@@ -169,8 +170,8 @@ const Biografia = () => {
 
             {/*DISTINCIONES*/}
             <CardSeccion titulo="Algunas distinciones"
-                img=""
-                caption=""
+                img="/virgilioarrieta/VAObraDetras.webp"
+                caption="Virgilio Arrieta junto a una de sus obras en el Country Club Barquisimeto"
                 texto={<>
                     <ul>
                         <li>
