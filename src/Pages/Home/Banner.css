@@ -2,7 +2,7 @@
     height: 300px;
     border-radius: 5px;
     object-fit: cover;
-    object-position: top;
+    object-position: 50% 18%;
 }
 
 

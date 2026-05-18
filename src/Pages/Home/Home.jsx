@@ -47,8 +47,7 @@ function Home() {
               <img src="/virgilioarrieta/ObraGuitarrista.webp" className="imgC" style={{objectPosition: "50% 80%"}}/>
               <h3 className="mt-2">MÚSICA</h3>
               <p>
-                Sumérgete en un universo musical y descubre canciones de su autoría que
-                conectan con emociones reales, letras que cuentan historias y melodías que invitan a cantar.
+                Sumérgete en un universo musical y descubre canciones de su autoría que conectan con emociones reales, letras que cuentan historias y melodías que invitan a cantar.
               </p>
             </Link>
           </div>
@@ -58,8 +57,7 @@ function Home() {
               <img src="/virgilioarrieta/ObraLinea5.webp" className="imgC" style={{objectPosition: "50% 30%"}}/>
               <h3 className="mt-2">ESCRITURA</h3>
               <p>
-                Adéntrate en la obra literaria del artista, donde su libro y diversos escritos
-                revelan una voz personal que explora emociones, ideas y experiencias desde una mirada creativa y reflexiva.
+                Adéntrate en la obra literaria del artista, donde su libro y diversos escritos revelan una voz personal que explora emociones, ideas y experiencias desde una mirada creativa y reflexiva.
               </p>
             </Link>
           </div>
