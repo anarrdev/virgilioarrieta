@@ -4,7 +4,7 @@ const Biografia = () => {
     return (
         <div className="d-flex flex-column gap-2">
 
-            <img src="/virgilioarrieta/VAObraDetras.webp" className="card-img-banner" alt="Obra Ultima Cena Musicos - Virgilio Arrieta" />
+            <img src="/virgilioarrieta/UltimaCena.webp" className="card-img-banner" alt="Obra Ultima Cena Musicos - Virgilio Arrieta" />
 
             <h2>Biografía</h2>
 
