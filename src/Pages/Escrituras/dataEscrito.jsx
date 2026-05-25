@@ -24,16 +24,16 @@ Pasan algunos años y en el 80 conozco a Gloria Esperanza, quien hoy es mi espos
 El estar graduado, con la bella familia y desarrollándome como pintor y compositor me hizo sentir feliz y pleno.
 
 Y es en el año 86 cuando se juntan los recuerdos con los días felices que vivía y mis sueños a futuro… surgen las preguntas: ¿llegaré a ser un artista reconocido? Y si así fuera, ¿cómo sería mi despedida?, ¿tan sentida y amorosa como la de mi padre? ¿Y mi esposa y mis hijos?, ¿qué pasará después?
-
 Tenía en mis manos la guitarra, como acostumbro en los ratos libres, y comencé a escribir…
 
 “Quizás porque ya las canas están cubriendo mi pelo
-y que la vida es muy corta para lo que yo te quiero…”
+Y que la vida es muy corta para lo que yo te quiero
+Me estoy haciendo preguntas sin encontrarle respuesta,
+Mi garganta enmudecida queriendo gritar con fuerza…"
 
-Me estoy haciendo preguntas sin encontrarle respuesta, mi garganta enmudecida queriendo gritar con fuerza… cada frase, cada verso llegó de manera fluida y estuvo lista en media hora quizá… así… tal cual se conoce.
+Cada frase, cada verso llegó de manera fluida y estuvo lista en media hora quizá… así… tal cual se conoce.
 
 La graba por primera vez la agrupación Grey Zuliana, cantando Edinson Salazar, logrando ser gaita del año regional.
-
 Tres años más tarde Los Morillos, cantando Argenis Carruyo, y dos años después Neguito Borjas… hoy sigue sonando en sus tantas versiones… y agradecido yo también la canto.`
     }
 ]
