@@ -1,7 +1,7 @@
 const DataACYS=[
 {
     num: 11,
-    titulo: 'Con Alma de Cantor',
+    titulo: "Con Alma de Cantor",
     letra:`Tiene alma de cantor
         De poeta de señor Don aire
         Un constante soñador
@@ -28,7 +28,7 @@ const DataACYS=[
         Que falle la razón
         Pero nunca la amistad
         De un caroreño`
-    }
+    },
     {
         num:12,
         titulo:"Lara es una sola",
@@ -74,7 +74,7 @@ const DataACYS=[
         No es para echarlo a la suerte
         El que nace en esta tierra
         Es pueblo canción y gente`
-    }
+    },
     {
         num:13,
         titulo:"Yo que no he nacido aqui",
@@ -111,7 +111,7 @@ const DataACYS=[
         Lo que pasa es que Dios
         Sembró en Lara el amor
         Y nació un paraíso`
-    }
+    },
     {
         num:14,
         titulo:"El carretero",
@@ -140,7 +140,7 @@ const DataACYS=[
         Esta en mi alma metida
         Como una flor
         Que tiene olor a buena vida`
-    }
+    },
     {
         num:15,
         titulo:"Sanare",
@@ -193,7 +193,7 @@ const DataACYS=[
         
         Sanare
         Pedacito de mi cielo`
-    }
+    },
     {
         num:16,
         titulo:"Las cosas bellas de Lara",
@@ -271,9 +271,8 @@ const DataACYS=[
         Y el guarapo el corazón
         
         ¡Qué lindo!`
-    }
-    {
-        
+    },
+    { 
         num:17,
         titulo:"Arcilla, camino y sol",
         letra:`Su alma es una canción 
@@ -301,254 +300,244 @@ const DataACYS=[
         Viva el larense de verdad
         Viva ese noble y gran señor
         Viva ese ejemplo del amor
-        Viva mi amigo mi hermano`}
+        Viva mi amigo mi hermano`
+    },
+    {
+        num:18,
+        titulo:"Bajo la neblina",
+        letra:`Cada vez que voy a mi pueblo
+        En Paso Real yo suspiro
+        Pues se despierta en mi alma
+        Todo el amor por Cubiro
+        Y Dios desde las alturas
+        Pinta el paisaje que miro
+        El verde de las montañas
+        Lo mezcla con los azules
+        Para matizar el cielo
+        Entre una y otra nube
+        Y el encanto y la belleza
+        En ese instante se unen
+        
+        La brisa del mil flores, el aroma
+        Se desliza por las lomas
+        Y se anida en la placita
+        La siembra con espejos de laguna
+        Le permiten a la luna
+        Que se mire la carita
+        
+        Coqueta la neblina se desplaza
+        Mientras que dos arcoiris
+        La cortejan y la abrazan
+        Su gente sencilla y abrigada
+        Es la mejor de este mundo
+        Es lluvia de agua bendita
+        
+        Cubiro, Cubiro
+        Te estoy queriendo Cubiro
+        Eres el aire
+        Pueblo mio que respiro
+        Cubiro, Cubiro
+        Te estoy queriendo Cubiro
+        El tiempo, la niñez que nunca olvido`
+    },
+    {
+        num:19,
+        titulo:"Gracias papá",
+        letra:`Gracias papá
+        Por venir a esta tierra
+        Y por aceptar
+        Lo que Dios decidiera
+        Por cree en la mujer
+        Que hoy es mi mamá
+        Gracias a los dos
+        Por permitir
+        Que yo aquí naciera
+        
+        Soy un larense de corazón
+        Soy un larense con mucho amor
+        Yo soy larense
+        Porque Lara está en mis venas
+        Repica el cuatro suena el tambor
+        Y en una nube escribe el sol
+        Que Lara es la majestad de Venezuela
+        
+        Yo soy larense de corazón
+        Pero larense con mucho amor
+        Yo soy larense
+        Porque Lara está en mis venas
+        Repica el cuatro suena el tambor
+        Y en una nube escribe el sol
+        Que Lara es la majestad de Venezuela
+        
+        Gracias papá
+        Por venir a esta tierra
+        Eres para mi
+        Lo mejor de mi escuela
+        Orgulloso estoy de ti
+        Como también de mi país
+        Gracias a los dos
+        Por permitir
+        Que yo aquí naciera
+        
+        Yo soy larense de corazón
+        Yo soy larense con mucho amor
+        Yo soy larense
+        Porque Lara está en mis venas
+        Repica el cuatro suena el tambor
+        Y en una nube escribe el sol
+        Que Lara es la majestad de Venezuela
+        
+        Yo soy larense de corazón
+        Yo soy larense con mucho amor
+        Yo soy larense
+        Porque Lara está en mis venas
+        Repica el cuatro suena el tambor
+        Y en una nube escribe el sol
+        Que Lara es la majestad de Venezuela`
+    },
+    {
+        num:20,
+        titulo:"Un larense canta",
+        letra:`Nací lejos de aqui
+        De niño te busqué
+        Y entre mis libros te guardé
+        En un mapa hermoso
+        De papel, de papel
+        Tantas cosas de ti
+        Mi padre me contó
+        Y yo soñaba con sus palabras
+        Tras la lagrimita que escapó
+        
+        Me pude imaginar
+        Como encontrarte
+        Siguiendo un sol
+        Un bellos sol crepuscular
+        Ahora es verdad
+        No estoy soñando
+        Cardenal cujíes
+        Tunas que se queman de color
+        Gente desplegando tanto amor
+        
+        Y es que a mi padre
+        Le faltó decir que Lara
+        Es folcror cuna
+        Y canción venezolana
+        Y es que a mi padre
+        Le faltó decirme que
+        Quien llega a Lara
+        Nunca mas se va
+        
+        Sobre un atardecer
+        Un cuatro y una flor
+        La serenata nunca se olvida
+        Y un larense canta
+        A su amor`
+    },
+    {
+        num:21,
+        titulo:"Como luna de abril",
+        letra:`La mujer que es de aquí
+        Es todita bella
+        La mujer que es de aquí
+        Es toda una estrella
+        Es la brisa el camino y el horizonte
+        Y es natural
+        Como la flor de nuestros montes
+        
+        La mujer es dulcita
+        Como la caña
+        La mujer es agüita
+        De la montaña
+        La mujer es el cielo
+        Que se ha pintado
+        Para tenerme aquí
+        Bien enamorado
+        
+        Y es que esta tierra da
+        Una mujer asi
+        ¡Oye! dulce, bonita
+        Como la luna de Abril
+        
+        Le pido a Dios que me deje aquí
+        En esta tierra encantada
+        Le pido a Dios que me deje
+        En esta tierra de Lara
+        Para ver como es el cielo
+        Como una nube de caramelo
+        Para disfrutar en grande
+        Los arreboles en cada tarde
+        Y bailar lo mas que aguante
+        Un golpe alegre y un tamunangue
+        Para darle a cada pueblo
+        Con mis canciones y mi amor
+        Amor eterno
+        
+        Le pido a Dios que me deje aquí
+        En esta tierra encantada
+        Le pido a Dios que me deje
+        En esta tierra de Lara
+        Para ver como es el cielo
+        Como una nube de caramelo
+        Para disfrutar en grande
+        Los arreboles en cada tarde
+        Y bailar lo mas que aguante
+        Un golpe alegre y un tamunangue
+        Para darle a cada pueblo
+        Con mis canciones
+        Amor eterno`
+    },
+    {
+        num:22,
+        titulo:"Tierra bendita",
+        letra:`Orgullosos de nacer
+        En esta tierra bendita
+        De las tunas del golpe
+        Y de la acemita
+        Orgullosos de sus tardes
+        Llenas de sol
+        
+        Orgullosos cuando oímos
+        Que nos llaman guaros
+        Objetivo el amor
+        Y lo tenemos claro
+        Orgullosos de soñar
+        Y de creer en Dios
+        
+        Orgullosos de que el tamunangue
+        Sea fortuna de nuestro folclor
+        Orgullosos de que en Santa Rosa
+        Una virgen nos brinde su amor
+        Orgullosos de este suelo
+        Que nos ha dado todo
+        todo todo todo…
+        
+        Orgullosos cuando oímos
+        Que nos llaman guaros
+        Objetivo el amor
+        Y lo tenemos claro
+        Orgullosos de soñar
+        Y de creer en Dios
+        
+        (Mi mamá nació en Carora
+        Y mi papá nació en Cubiro
+        Mi papá no
+        Pero tiene mucho tiempo aquí)
+        
+        Orgullosos de que el tamunangue
+        Sea fortuna de nuestro folclor
+        Orgullosos de que en Santa Rosa
+        Una virgen nos brinde su amor
+        Orgullosos de este suelo
+        Que nos ha dado todo
+        todo todo…
+        
+        Orgullosos cuando oímos
+        Que nos llaman guaros
+        Objetivo el amor
+        Y lo tenemos claro
+        Orgullosos de soñar
+        Y de creer en Dios`
     }
-        
-        
-                        <Cancion
-                            num={18}
-                            titulo="Bajo la neblina"
-                            letra={`Cada vez que voy a mi pueblo
-                                En Paso Real yo suspiro
-                                Pues se despierta en mi alma
-                                Todo el amor por Cubiro
-                                Y Dios desde las alturas
-                                Pinta el paisaje que miro
-                                El verde de las montañas
-                                Lo mezcla con los azules
-                                Para matizar el cielo
-                                Entre una y otra nube
-                                Y el encanto y la belleza
-                                En ese instante se unen
-                                
-                                La brisa del mil flores, el aroma
-                                Se desliza por las lomas
-                                Y se anida en la placita
-                                La siembra con espejos de laguna
-                                Le permiten a la luna
-                                Que se mire la carita
-                                
-                                Coqueta la neblina se desplaza
-                                Mientras que dos arcoiris
-                                La cortejan y la abrazan
-                                Su gente sencilla y abrigada
-                                Es la mejor de este mundo
-                                Es lluvia de agua bendita
-                                
-                                Cubiro, Cubiro
-                                Te estoy queriendo Cubiro
-                                Eres el aire
-                                Pueblo mio que respiro
-                                Cubiro, Cubiro
-                                Te estoy queriendo Cubiro
-                                El tiempo, la niñez que nunca olvido`}
-                        />
-
-
-                        <Cancion
-                            num={19}
-                            titulo="Gracias papá"
-                            letra={`Gracias papá
-                            Por venir a esta tierra
-                            Y por aceptar
-                            Lo que Dios decidiera
-                            Por cree en la mujer
-                            Que hoy es mi mamá
-                            Gracias a los dos
-                            Por permitir
-                            Que yo aquí naciera
-                            
-                            Soy un larense de corazón
-                            Soy un larense con mucho amor
-                            Yo soy larense
-                            Porque Lara está en mis venas
-                            Repica el cuatro suena el tambor
-                            Y en una nube escribe el sol
-                            Que Lara es la majestad de Venezuela
-                            
-                            Yo soy larense de corazón
-                            Pero larense con mucho amor
-                            Yo soy larense
-                            Porque Lara está en mis venas
-                            Repica el cuatro suena el tambor
-                            Y en una nube escribe el sol
-                            Que Lara es la majestad de Venezuela
-                            
-                            Gracias papá
-                            Por venir a esta tierra
-                            Eres para mi
-                            Lo mejor de mi escuela
-                            Orgulloso estoy de ti
-                            Como también de mi país
-                            Gracias a los dos
-                            Por permitir
-                            Que yo aquí naciera
-                            
-                            Yo soy larense de corazón
-                            Yo soy larense con mucho amor
-                            Yo soy larense
-                            Porque Lara está en mis venas
-                            Repica el cuatro suena el tambor
-                            Y en una nube escribe el sol
-                            Que Lara es la majestad de Venezuela
-                            
-                            Yo soy larense de corazón
-                            Yo soy larense con mucho amor
-                            Yo soy larense
-                            Porque Lara está en mis venas
-                            Repica el cuatro suena el tambor
-                            Y en una nube escribe el sol
-                            Que Lara es la majestad de Venezuela`}
-                        />
-
-
-                        <Cancion
-                            num={20}
-                            titulo="Un larense canta"
-                            letra={`Nací lejos de aqui
-                                De niño te busqué
-                                Y entre mis libros te guardé
-                                En un mapa hermoso
-                                De papel, de papel
-                                Tantas cosas de ti
-                                Mi padre me contó
-                                Y yo soñaba con sus palabras
-                                Tras la lagrimita que escapó
-                                
-                                Me pude imaginar
-                                Como encontrarte
-                                Siguiendo un sol
-                                Un bellos sol crepuscular
-                                Ahora es verdad
-                                No estoy soñando
-                                Cardenal cujíes
-                                Tunas que se queman de color
-                                Gente desplegando tanto amor
-
-                                Y es que a mi padre
-                                Le faltó decir que Lara
-                                Es folcror cuna
-                                Y canción venezolana
-                                Y es que a mi padre
-                                Le faltó decirme que
-                                Quien llega a Lara
-                                Nunca mas se va
-                                
-                                Sobre un atardecer
-                                Un cuatro y una flor
-                                La serenata nunca se olvida
-                                Y un larense canta
-                                A su amor`}
-                        />
-
-
-                        <Cancion
-                            num={21}
-                            titulo="Como luna de abril"
-                            letra={`La mujer que es de aquí
-                                Es todita bella
-                                La mujer que es de aquí
-                                Es toda una estrella
-                                Es la brisa el camino y el horizonte
-                                Y es natural
-                                Como la flor de nuestros montes
-
-                                La mujer es dulcita
-                                Como la caña
-                                La mujer es agüita
-                                De la montaña
-                                La mujer es el cielo
-                                Que se ha pintado
-                                Para tenerme aquí
-                                Bien enamorado
-
-                                Y es que esta tierra da
-                                Una mujer asi
-                                ¡Oye! dulce, bonita
-                                Como la luna de Abril
-
-                                Le pido a Dios que me deje aquí
-                                En esta tierra encantada
-                                Le pido a Dios que me deje
-                                En esta tierra de Lara
-                                Para ver como es el cielo
-                                Como una nube de caramelo
-                                Para disfrutar en grande
-                                Los arreboles en cada tarde
-                                Y bailar lo mas que aguante
-                                Un golpe alegre y un tamunangue
-                                Para darle a cada pueblo
-                                Con mis canciones y mi amor
-                                Amor eterno
-
-                                Le pido a Dios que me deje aquí
-                                En esta tierra encantada
-                                Le pido a Dios que me deje
-                                En esta tierra de Lara
-                                Para ver como es el cielo
-                                Como una nube de caramelo
-                                Para disfrutar en grande
-                                Los arreboles en cada tarde
-                                Y bailar lo mas que aguante
-                                Un golpe alegre y un tamunangue
-                                Para darle a cada pueblo
-                                Con mis canciones
-                                Amor eterno`}
-                        />
-
-
-                        <Cancion
-                            num={22}
-                            titulo="Tierra bendita"
-                            letra={`Orgullosos de nacer
-                                En esta tierra bendita
-                                De las tunas del golpe
-                                Y de la acemita
-                                Orgullosos de sus tardes
-                                Llenas de sol
-                                
-                                Orgullosos cuando oímos
-                                Que nos llaman guaros
-                                Objetivo el amor
-                                Y lo tenemos claro
-                                Orgullosos de soñar
-                                Y de creer en Dios
-
-                                Orgullosos de que el tamunangue
-                                Sea fortuna de nuestro folclor
-                                Orgullosos de que en Santa Rosa
-                                Una virgen nos brinde su amor
-                                Orgullosos de este suelo
-                                Que nos ha dado todo
-                                todo todo todo…
-
-                                Orgullosos cuando oímos
-                                Que nos llaman guaros
-                                Objetivo el amor
-                                Y lo tenemos claro
-                                Orgullosos de soñar
-                                Y de creer en Dios
-
-                                (Mi mamá nació en Carora
-                                Y mi papá nació en Cubiro
-                                Mi papá no
-                                Pero tiene mucho tiempo aquí)
-
-                                Orgullosos de que el tamunangue
-                                Sea fortuna de nuestro folclor
-                                Orgullosos de que en Santa Rosa
-                                Una virgen nos brinde su amor
-                                Orgullosos de este suelo
-                                Que nos ha dado todo
-                                todo todo…
-
-                                Orgullosos cuando oímos
-                                Que nos llaman guaros
-                                Objetivo el amor
-                                Y lo tenemos claro
-                                Orgullosos de soñar
-                                Y de creer en Dios`
-                            }
 ]
 
 export default DataACYS;
