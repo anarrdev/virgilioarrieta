@@ -1,8 +1,8 @@
-const DataACYS=[
-{
-    num: 11,
-    titulo: "Con Alma de Cantor",
-    letra:`Tiene alma de cantor
+const DataACYS = [
+    {
+        num: 11,
+        titulo: "Con Alma de Cantor",
+        letra: `Tiene alma de cantor
         De poeta de señor Don aire
         Un constante soñador
         Que no oculta el corazón a nadie
@@ -30,9 +30,9 @@ const DataACYS=[
         De un caroreño`
     },
     {
-        num:12,
-        titulo:"Lara es una sola",
-        letra:`Yo soy un buen tocuyano
+        num: 12,
+        titulo: "Lara es una sola",
+        letra: `Yo soy un buen tocuyano
         Soy de Duaca soy de Quibor
         De Carora Cabudare
         Santa Rosa y de Cubiro
@@ -76,9 +76,9 @@ const DataACYS=[
         Es pueblo canción y gente`
     },
     {
-        num:13,
-        titulo:"Yo que no he nacido aqui",
-        letra:`Luces y sombras
+        num: 13,
+        titulo: "Yo que no he nacido aqui",
+        letra: `Luces y sombras
         Las seis de la tarde
         Surgen del tiempo
         Del sol y del aire
@@ -113,9 +113,9 @@ const DataACYS=[
         Y nació un paraíso`
     },
     {
-        num:14,
-        titulo:"El carretero",
-        letra:`Con su caballo marrón
+        num: 14,
+        titulo: "El carretero",
+        letra: `Con su caballo marrón
         Y ancho sombrero
         Así recuerdo feliz
         Al carretero
@@ -142,9 +142,9 @@ const DataACYS=[
         Que tiene olor a buena vida`
     },
     {
-        num:15,
-        titulo:"Sanare",
-        letra:`Sanare
+        num: 15,
+        titulo: "Sanare",
+        letra: `Sanare
         Pedacito de mi cielo
         De tardecita
         Parece que en tus casitas
@@ -195,9 +195,9 @@ const DataACYS=[
         Pedacito de mi cielo`
     },
     {
-        num:16,
-        titulo:"Las cosas bellas de Lara",
-        letra:`Yo le quiero decir a usted
+        num: 16,
+        titulo: "Las cosas bellas de Lara",
+        letra: `Yo le quiero decir a usted
         Que un mondonguito de chivo
         Unas arepas sabrosas
         Hechas con maíz molido
@@ -272,10 +272,10 @@ const DataACYS=[
         
         ¡Qué lindo!`
     },
-    { 
-        num:17,
-        titulo:"Arcilla, camino y sol",
-        letra:`Su alma es una canción 
+    {
+        num: 17,
+        titulo: "Arcilla, camino y sol",
+        letra: `Su alma es una canción 
         Arcilla camino y sol
         Requinto cuatro y tambor 
         Son casi como sus hijos
@@ -303,9 +303,9 @@ const DataACYS=[
         Viva mi amigo mi hermano`
     },
     {
-        num:18,
-        titulo:"Bajo la neblina",
-        letra:`Cada vez que voy a mi pueblo
+        num: 18,
+        titulo: "Bajo la neblina",
+        letra: `Cada vez que voy a mi pueblo
         En Paso Real yo suspiro
         Pues se despierta en mi alma
         Todo el amor por Cubiro
@@ -341,9 +341,9 @@ const DataACYS=[
         El tiempo, la niñez que nunca olvido`
     },
     {
-        num:19,
-        titulo:"Gracias papá",
-        letra:`Gracias papá
+        num: 19,
+        titulo: "Gracias papá",
+        letra: `Gracias papá
         Por venir a esta tierra
         Y por aceptar
         Lo que Dios decidiera
@@ -396,9 +396,9 @@ const DataACYS=[
         Que Lara es la majestad de Venezuela`
     },
     {
-        num:20,
-        titulo:"Un larense canta",
-        letra:`Nací lejos de aqui
+        num: 20,
+        titulo: "Un larense canta",
+        letra: `Nací lejos de aqui
         De niño te busqué
         Y entre mis libros te guardé
         En un mapa hermoso
@@ -434,9 +434,9 @@ const DataACYS=[
         A su amor`
     },
     {
-        num:21,
-        titulo:"Como luna de abril",
-        letra:`La mujer que es de aquí
+        num: 21,
+        titulo: "Como luna de abril",
+        letra: `La mujer que es de aquí
         Es todita bella
         La mujer que es de aquí
         Es toda una estrella
@@ -487,9 +487,9 @@ const DataACYS=[
         Amor eterno`
     },
     {
-        num:22,
-        titulo:"Tierra bendita",
-        letra:`Orgullosos de nacer
+        num: 22,
+        titulo: "Tierra bendita",
+        letra: `Orgullosos de nacer
         En esta tierra bendita
         De las tunas del golpe
         Y de la acemita

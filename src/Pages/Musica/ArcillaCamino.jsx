@@ -15,6 +15,7 @@ const ArcillaCamino = () => {
 
                         {DataACYS.map((cancion) => (
                             <Cancion
+                                group="ACYS"
                                 key={cancion.num}
                                 num={cancion.num}
                                 titulo={cancion.titulo}
