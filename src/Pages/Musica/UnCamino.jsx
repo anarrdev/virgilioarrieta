@@ -1,5 +1,5 @@
 import Cancion from "../../Components/Cancion";
-import DataUCYUE from "./DataUCYUE";
+import DataUCYUE from "./DataMusica/DataUCYUE";
 
 const UnCamino = () => {
     return (

@@ -1,5 +1,5 @@
 import Cancion from "../../Components/Cancion";
-import DataACYS from "./DataACYS";
+import DataACYS from "./DataMusica/DataACYS";
 
 const ArcillaCamino = () => {
     return (
